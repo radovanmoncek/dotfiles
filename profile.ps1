@@ -39,4 +39,4 @@ Function prompt {
 
 Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
 
-$env:FZF_DEFAULT_OPTS = '--multi --height=50% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="['+$($ENV:UserName)+'] <- " --pointer="->" --marker="x" --header="CTRL-c or ESC to quit" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
+$env:FZF_DEFAULT_OPTS = '--multi --height=50% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="'+$($PWD)+' ? " --pointer="@" --marker="x" --header="CTRL-c or ESC to quit" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
