@@ -34,9 +34,10 @@ New-Alias neoduke setDukeAsArt
 Function prompt {
 	Write-Host "@ " -nonewline -foregroundcolor DarkYellow
 	Write-Host "$(Get-Date)" -nonewline -foregroundcolor Cyan
+	Write-Host " ./$(($pwd -split "\\")[($pwd -split "\\").Length - 1])" -nonewline -foregroundcolor Cyan
 	return " "
 }
 
 Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
 
-$env:FZF_DEFAULT_OPTS = '--multi --height=50% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="'+$($PWD)+' ? " --pointer="@" --marker="x" --header="CTRL-c or ESC to quit" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
+$env:FZF_DEFAULT_OPTS = '--multi --height=70% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="./' + ($pwd -split "\\")[($pwd -split "\\").Length - 1] + ' ? " --pointer="@" --marker="x" --header="CTRL-c or ESC to quit" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
