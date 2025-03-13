@@ -31,6 +31,10 @@ New-Alias fox "C:\Program Files\Mozilla Firefox\firefox.exe"
 
 New-Alias neoduke setDukeAsArt
 
+New-Alias dockerdesktop "C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe"
+
+New-Alias idea64 C:\Portable\idea24\app\bin\idea64.exe
+
 Function prompt {
 	Write-Host "@ " -nonewline -foregroundcolor DarkYellow
 	Write-Host "$(Get-Date)" -nonewline -foregroundcolor Cyan
