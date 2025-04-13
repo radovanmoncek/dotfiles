@@ -14,7 +14,7 @@
 (setq inhibit-startup-message t)
 
 ;;font
-(set-face-attribute 'default nil :font "Code New Roman" :height 130)
+(set-face-attribute 'default nil :font "Code New Roman" :height 160)
 
 ;;emoji
 ;;source: https://ianyepan.github.io/posts/emacs-emojis/
@@ -164,7 +164,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(counsel-projectile projectile powershell general doom-themes helpful ivy-rich iviy-rich which-key wchich-key rainbow-delimiters emojify counsel swiper ivy)))
+   '(magit counsel-projectile projectile powershell general doom-themes helpful ivy-rich iviy-rich which-key wchich-key rainbow-delimiters emojify counsel swiper ivy)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -260,3 +260,7 @@
 
 (use-package counsel-projectile
   :config (counsel-projectile-mode))
+
+(use-package magit
+  :custom
+  (magit-display-buffer-function #'magit-display-buffer-same-window-except-diff-v1))
