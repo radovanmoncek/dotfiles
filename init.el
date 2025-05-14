@@ -3,21 +3,24 @@
 					;https://www.jetbrains.com/lp/mono/
 					;https://www.youtube.com/watch?v=81MdyDYqB-A
 ; https://www.reddit.com/r/emacs/comments/ggd90c/color_emoji_in_emacs_27/
+					; ctrl + g to quit prompt or esc
 
+(use-package smex)
+(use-package magit)
+(load-theme 'gruber-darker t)
+(set-face-attribute 'default nil :font "JetBrains Mono Regular" :height 160)
 (setq visible-bell t)
+(setq inhibit-startup-message t)
+(setq-default frame-title-format '("@ my Emacs"))
 (scroll-bar-mode -1)
 (menu-bar-mode -1)
 (tooltip-mode -1)
 (tool-bar-mode -1)
-(set-face-attribute 'default nil :font "JetBrains Mono Regular" :height 160)
 (set-fontset-font t 'emoji "Segoe UI Emoji" nil 'append)
-(setq-default frame-title-format '("🧢"))
 (global-display-line-numbers-mode t)
-(load-theme 'gruber-darker t)
-(setq inhibit-startup-message t)
-(use-package magit
-  :custom
-  (magit-display-buffer-function #'magit-display-buffer-same-window-except-diff-v1)) ; ctrl + g to quit prompt or esc
+(ido-mode 1) ; ido-mode
+(ido-everywhere 1)
+;(global-unset-key (kbd "M-x") 'smex)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
