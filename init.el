@@ -2,20 +2,23 @@
 					;https://emojiterra.com/billed-cap/
 					;https://www.jetbrains.com/lp/mono/
 					;https://www.youtube.com/watch?v=81MdyDYqB-A
-; https://www.reddit.com/r/emacs/comments/ggd90c/color_emoji_in_emacs_27/
+					; https://www.reddit.com/r/emacs/comments/ggd90c/color_emoji_in_emacs_27/
 					; ctrl + g to quit prompt or esc
 					; Initialize package sources source: youtube: System Crafters
 					; ido-mode
 					;https://learns.edu.vn/learn/who-said-those-who-do-not-learn-from-history/
 					;https://www.gnu.org/software/emacs/manual/html_node/emacs/Display-Custom.html
 					;https://chrismaiorana.com/relative-line-numbers-in-emacs/
+					;https://emacs.stackexchange.com/questions/76120/how-can-i-use-tramps-ssh-on-windows-10-with-the-native-ssh-exe
+					;https://emacs.stackexchange.com/questions/82345/windows-11-native-ssh-exe-doesnt-show-a-password-prompt-in-some-cases-emacs
+					;https://stackoverflow.com/questions/6954479/emacs-tramp-doesnt-work
 
 (require 'package)
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
                          ("elpa" . "https://elpa.gnu.org/packages/")))
 (package-initialize)
 (unless (package-installed-p 'use-package)
-    (package-install 'use-package))
+  (package-install 'use-package))
 (require 'use-package)
 (setq use-package-always-ensure t)
 (use-package smex)
@@ -36,6 +39,7 @@
 (global-set-key (kbd "M-x") 'smex)
 (global-set-key (kbd "C-,") 'duplicate-line)
 (setq display-line-numbers-type 'relative)
+(setq tramp-use-ssh-controlmaster-options nil)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
