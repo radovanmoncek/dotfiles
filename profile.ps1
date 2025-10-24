@@ -69,15 +69,25 @@ Function FZF-Into-Vim {
 	#exit
 }
 
+Function File-WSL ([string]$NTFSPath) {
+	wsl file (Path-From-NTFS-To-Ext4 $NTFSPath)
+}
+
+Function Ldd-WSL ([string]$NTFSPath) {
+	wsl ldd (Path-From-NTFS-To-Ext4 $NTFSPath)
+}
+
 New-Alias con WiFi-Connect
 New-Alias vim Vim-WSL
+New-Alias file File-WSL 
+New-Alias ldd Ldd-WSL
 
 Set-PSReadLineKeyHandler -Chord 'Ctrl+u' -ScriptBlock {
 #echo 1
 #[Microsoft.PowerShell.PSConsoleReadLine]::AddLine()
 #[Microsoft.PowerShell.PSConsoleReadLine]::Insert('echo 1')
-[Microsoft.PowerShell.PSConsoleReadLine]::Insert('FZF-Into-Vim')
-[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
+	[Microsoft.PowerShell.PSConsoleReadLine]::Insert('FZF-Into-Vim')
+	[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
 #FZF-Into-Vim
 #return
 #exit
