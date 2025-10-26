@@ -209,3 +209,10 @@ https://stackoverflow.com/questions/72104301/powershell-open-url-in-new-window-s
 
 https://superuser.com/questions/362152/native-alternative-to-wget-in-windows-powershell
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.5
+https://www.windowsdigitals.com/powershell-open-url-in-chrome-edge-or-firefox/
+https://vimhelp.org/quickref.txt.html
+https://vimhelp.org/pattern.txt.html#N
+https://github.com/kelleyma49/PSFzf
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline?view=powershellsdk-1.1.0
+https://www.zerotier.com/
+https://www.youtube.com/watch?v=LTP5c4NqA8k
