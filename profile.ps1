@@ -63,7 +63,9 @@ Function FZF-Into-Vim {
 	#$NTFSPath = (fzf)
 	#echo $NTFSPath
 	#fzf | echo
-	#Get-ChildItem . -File -Recurse -Depth 4 | Invoke-Fzf | % {type $_}	
+	#Get-ChildItem . -File -Recurse -Depth 4 | Invoke-Fzf | % {type $_}
+	#prompt
+	[Microsoft.PowerShell.PSConsoleReadLine]::BackwardKillLine()
 	Get-ChildItem . -File -Recurse -Depth 4 | Invoke-Fzf | % {Vim-WSL $_}
 	#return
 	#exit
@@ -77,17 +79,30 @@ Function Ldd-WSL ([string]$NTFSPath) {
 	wsl ldd (Path-From-NTFS-To-Ext4 $NTFSPath)
 }
 
+Function Start-Discord {
+	Start-Process "C:\Users\soudr\scoop\apps\discord\current\discord-portable.exe" -PassThru
+}
+
 New-Alias con WiFi-Connect
 New-Alias vim Vim-WSL
 New-Alias file File-WSL 
 New-Alias ldd Ldd-WSL
+New-Alias dis Start-Discord
+New-Alias discord dis
+New-Alias zero "C:\ProgramData\ZeroTier\One\zerotier-one_x64.exe"
+New-Alias zerotier-cli zero
 
 Set-PSReadLineKeyHandler -Chord 'Ctrl+u' -ScriptBlock {
 #echo 1
 #[Microsoft.PowerShell.PSConsoleReadLine]::AddLine()
 #[Microsoft.PowerShell.PSConsoleReadLine]::Insert('echo 1')
 	[Microsoft.PowerShell.PSConsoleReadLine]::Insert('FZF-Into-Vim')
+	#[Microsoft.PowerShell.PSConsoleReadLine]::BackwardKillLine()
+	#FZF-Into-Vim
 	[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
+	[Microsoft.PowerShell.PSConsoleReadLine]::InvokePrompt()
+	#[Microsoft.PowerShell.PSConsoleReadLine]::Insert('')
+	#[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
 #FZF-Into-Vim
 #return
 #exit
@@ -99,8 +114,16 @@ Set-PSReadLineKeyHandler -Chord 'Ctrl+u' -ScriptBlock {
 #echo test
 } 
 
-Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
+Set-PSReadLineKeyHandler -Chord 'Ctrl+k' -ScriptBlock {
 
+}
+
+Set-PsFzfOption -PSReadlineChordProvider 'Ctrl+t' -PSReadlineChordReverseHistory 'Ctrl+r'
+#Set-PsFzfOption -AltCCommand [ScriptBlock]{ 
+#param($Location) 
+#echo $Location 
+#[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine() 
+#}
 $env:FZF_DEFAULT_OPTS = '--multi --height=69% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="./' + ($pwd -split "\\")[($pwd -split "\\").Length - 1] + ' ? " --pointer="@" --marker="x" --header="CTRL-c or ESC to quit" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
 
 Get-Message-Of-The-Day
