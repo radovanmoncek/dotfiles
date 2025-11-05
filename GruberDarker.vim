@@ -101,12 +101,12 @@ call <sid>hi('Cursor',        s:gruberBG,         s:gruberFG,    '',        '')
 call <sid>hi('NonText',       s:gruberFG2,        '',            '',        '')
 call <sid>hi('Normal',        s:gruberFG,         s:gruberBG,    '',        '')
 call <sid>hi('EndOfBuffer',   s:gruberFG,         s:gruberBG,    '',        '')
-call <sid>hi('LineNr',        s:gruberFG,         s:gruberBG,    '',        '')
+call <sid>hi('LineNr',        s:gruberFG3,         s:gruberBG,    '',        '')
 call <sid>hi('SignColumn',    s:none,             s:none,        '',        '')
 call <sid>hi('VertSplit',     s:gruberFG2,        s:gruberBG1,   '',        '')
 call <sid>hi('ColorColumn',   '',                 s:gruberBG2,   '',        '')
 call <sid>hi('CursorColumn',  '',                 s:gruberBG2,   '',        '')
-call <sid>hi('CursorLine',    '',                 s:gruberBG2,   'NONE',    '')
+call <sid>hi('CursorLine',    '',                 s:gruberBG,   'NONE',    '')
 call <sid>hi('CursorLineNr',  s:gruberMain,       s:gruberBG,    '',        '')
 call <sid>hi('PMenu',         s:gruberFG,         s:gruberBG1,   '',        '')
 call <sid>hi('PMenuSel',      s:gruberFG,         s:gruberBG2,   '',        '')
@@ -126,7 +126,7 @@ call <sid>hi('Delimiter',     s:gruberFG,         '',            '',          ''
 call <sid>hi('Float',         s:gruberQuartz,     '',            '',          '')
 call <sid>hi('Function',      s:gruberNiagara,    '',            '',          '')
 call <sid>hi('Identifier',    s:gruberNiagara,    '',            '',          '')
-call <sid>hi('Include',       s:gruberMain,       '',            '',          '')
+call <sid>hi('Include',       s:gruberQuartz,       '',            '',          '')
 call <sid>hi('Keyword',       s:gruberMain,       '',            '',          '')
 call <sid>hi('Label',         s:gruberFG,         '',            '',          '')
 call <sid>hi('Number',        s:gruberQuartz,     '',            '',          '')
@@ -148,6 +148,9 @@ call <sid>hi('SpellLocal',    '',                 '',            'undercurl', ''
 call <sid>hi('SpellCap',      '',                 '',            'undercurl', '')
 call <sid>hi('SpellRare',     '',                 '',            'undercurl', '')
 
+" dir
+call <sid>hi('netrwDir', s:gruberNiagara, '', '', '')
+
 " Haskell Highlighting
 call <sid>hi('hsTypeDef',     s:gruberMain,  '',  '',  '')
 call <sid>hi('hsStructure',   s:gruberMain,  '',  '',  '')
@@ -167,6 +170,13 @@ call <sid>hi('javaClassDecl',   s:gruberMain,   '', '', '')
 call <sid>hi('javaBraces',      s:gruberFG,     '', '', '')
 call <sid>hi('javaLangObject',  s:gruberFG,     '', '', '')
 call <sid>hi('javaType',        s:gruberQuartz, '', '', '')
+call <sid>hi('javaScopeDeclarations',        s:gruberQuartz, '', '', '')
+call <sid>hi('javaDocTags',        s:gruberQuartz, '', '', '')
+call <sid>hi('javaCommentTitle',        s:gruberGreen, '', '', '')
+call <sid>hi('javaType',        s:gruberQuartz, '', '', '')
+call <sid>hi('javaAnnotation',        s:gruberQuartz, '', '', '')
+call <sid>hi('javaDocComment',        s:gruberGreen, '', '', '')
+call <sid>hi('htmlCommentPart',        s:gruberGreen, '', '', '')
 
 " Python Highlighting
 call <sid>hi('pythonRepeat',     s:gruberMain, '',  '',  '')
@@ -226,3 +236,9 @@ let g:terminal_color_15=s:gruberFG[0]
 let g:terminal_color_background=s:gruberBG1[0]
 let g:terminal_color_foreground=s:gruberWhite[0]
 
+highlight CursorLineNr cterm=NONE ctermbg=NONE ctermfg=yellow gui=NONE guibg=NONE guifg=#ffdd33
+"highlight CursorLine cterm=NONE
+"hi clear CursorLine
+"augroup CLClear
+    "autocmd! ColorScheme * hi clear CursorLine
+"augroup END
