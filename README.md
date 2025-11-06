@@ -371,3 +371,9 @@ https://stackoverflow.com/questions/8640276/how-do-i-change-my-vim-highlight-lin
 https://superuser.com/questions/627636/better-syntax-highlighting-for-java-in-vim
 https://www.reddit.com/r/vim/comments/3bu715/syntax_highlighting_for_java/
 https://www.fosslinux.com/134422/customizing-vim-advanced-syntax-highlighting-techniques.htm
+https://superuser.com/questions/1026685/setting-up-vim-under-win-10
+https://www.geeksforgeeks.org/linux-unix/vi-vim-for-windows-users/
+https://www.thewindowsclub.com/install-vim-text-editor-on-windows
+https://www.reddit.com/r/vim/comments/pai8um/i_need_help_for_setting_vim_theme_for_windows/
+https://draculatheme.com/vim
+https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-schemes-used-by-vim
