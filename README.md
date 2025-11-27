@@ -1,7 +1,7 @@
-# dotfiles
+### dotfiles
 My perrsonal .files
 
-# References
+### References
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5
 https://learn.microsoft.com/en-us/powershell/module/smbshare/?view=windowsserver2025-ps
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/expand-archive?view=powershell-7.5
@@ -377,3 +377,243 @@ https://www.thewindowsclub.com/install-vim-text-editor-on-windows
 https://www.reddit.com/r/vim/comments/pai8um/i_need_help_for_setting_vim_theme_for_windows/
 https://draculatheme.com/vim
 https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-schemes-used-by-vim
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_powershell_exe?view=powershell-5.1
+- https://stackoverflow.com/questions/1445992/vim-file-navigation
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_comments?view=powershell-7.5
+- Virtualization
+	- https://scoop.sh/#/apps?q=qemu
+	- https://wiki.gentoo.org/wiki/QEMU/Front-ends
+	- https://qtemu.org/
+	- https://www.baeldung.com/linux/qemu-from-terminal
+- Vim
+	- https://vi.stackexchange.com/questions/9444/how-can-i-run-a-batch-file-in-vims-console
+	- https://vi.stackexchange.com/questions/38444/scroll-to-top-of-previous-terminal-command
+	- https://stackoverflow.com/questions/71950509/is-there-a-way-to-prevent-vims-netrw-from-modifying-timestamp-of-directories-i
+	- https://til.acm.illinois.edu/vim/default-netrw-to-tree-liststyle/
+	- https://vim.kishorenewton.com/docs/netrw/netrw-settings-and-customization/
+	- https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
+	- https://thevaluable.dev/vim-runtime-guide-example/
+	- https://stackoverflow.com/questions/48933/how-do-i-list-loaded-plugins-in-vim
+	- https://vi.stackexchange.com/questions/613/how-do-i-install-a-plugin-in-vim
+	- https://vim.fandom.com/wiki/Vim_Tips_Wiki
+	- https://superuser.com/questions/634326/how-can-i-get-a-block-cursor-in-vim-in-the-cygwin-terminal
+	- https://vim.fandom.com/wiki/Configuring_the_cursor
+	- https://vi.stackexchange.com/questions/27599/colorscheme-displayed-wrongly-with-neovim
+	- https://vi.stackexchange.com/users/auth/gcp?ssrc=google-one-tap&returnurl=https%253a%252f%252fvi.stackexchange.com%252fquestions%252f27599%252fcolorscheme-displayed-wrongly-with-neovim
+	- https://vi.stackexchange.com/questions/27599/colorscheme-displayed-wrongly-with-neovim
+	- https://superuser.com/questions/370556/vim-colors-not-working-properly-in-terminal
+	- https://stackoverflow.com/questions/6488683/how-to-change-the-cursor-between-normal-and-insert-modes-in-vim
+	- https://vi.stackexchange.com/questions/25603/how-to-use-the-same-set-of-cursor-shapes-for-bash-vi-mode-and-vim
+	- https://vi.stackexchange.com/questions/37074/set-cursor-to-block
+	- https://stackoverflow.com/questions/18589352/how-to-disable-vim-bells-sounds
+	- https://learnvim.irian.to/basics/macros
+	- https://stackoverflow.com/questions/11560201/backspace-key-not-working-in-vim-vi
+	- https://stackoverflow.com/questions/1555779/how-do-i-do-redo-i-e-undo-undo-in-vim 
+	- https://vi.stackexchange.com/questions/5804/how-to-zoom-to-text-in-vim-via-shortcut
+	- https://vi.stackexchange.com/questions/25726/how-to-map-the-c-w-shiftn-for-making-terminal-non-active
+	- https://vimhelp.org/terminal.txt.html#terminal-typing
+	- https://theopark.me/blog/2025-06-01-tabpanel/
+	- https://vi.stackexchange.com/questions/20023/what-does-cn-in-vim-do
+	- https://hea-www.harvard.edu/~fine/Tech/vi.html
+	- https://stackoverflow.com/questions/47076196/vim-8-terminal-standard-termkey-ctrl-w-n-opens-new-split-instead-of-switching
+	- https://vi.stackexchange.com/questions/16189/how-to-switch-between-buffer-and-terminal
+	- https://superuser.com/questions/1439330/scroll-up-to-in-vim-term
+	- https://vim.rtorr.com/
+	- https://vi.stackexchange.com/questions/2129/fastest-way-to-switch-to-a-buffer-in-vim
+	- https://superuser.com/questions/1471457/move-around-buffers-in-vim
+	- https://stackoverflow.com/questions/5559029/quickly-switching-buffers-in-vim-normal-mode
+	- https://linuxhandbook.com/vim-buffers/
+	- https://stackoverflow.com/questions/19774960/how-to-scroll-within-vims-shell-command-output
+	- http://vimcasts.org/episodes/evaluating-scripts-with-vims-expression-register/
+	- https://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back
+	- https://stackoverflow.com/questions/18130722/how-to-scroll-up-to-view-the-output-of-system-command-in-vim
+- Fzf
+	- https://raw.githubusercontent.com/junegunn/fzf/refs/heads/master/plugin/fzf.vim
+	- https://github.com/junegunn/fzf/blob/master/plugin/fzf.vim
+	- https://github.com/junegunn/fzf
+	- https://github.com/junegunn
+	- https://github.com/ibhagwan/fzf-lua/discussions/1615
+	- https://stackoverflow.com/questions/68222487/fake-the-version-number-of-a-binary
+	- https://github.com/junegunn/fzf.vim/issues/1210
+	- https://thevaluable.dev/fzf-vim-integration/
+	-  
+- PowerShell
+	- https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/using-keyhandlers?view=powershell-7.5
+	- https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlinekeyhandler?view=powershell-7.5
+	- https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.5
+	- https://stackoverflow.com/questions/21466372/execution-of-interactive-command-in-remote-powershell-session-not-working
+	- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-computer?view=powershell-7.5
+	- https://stackoverflow.com/questions/53161112/full-listing-of-installed-programs-using-powershell
+	- https://www.thewindowsclub.com/view-installed-programs-with-powershell
+	- https://learn.microsoft.com/en-us/powershell/module/appx/get-appxpackage?view=windowsserver2025-ps
+	- https://github.com/jdhitsolutions/PSCalendar
+	- 
+- Sec
+	- https://proton.me/support/pass-import-firefox 
+- Networking
+	- https://www.cloudflare.com/en-gb/learning/ddos/ddos-attack-tools/slowloris/
+	- https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-cname-record/
+	- https://help.mikrotik.com/docs/spaces/ROS/pages/224559120/WiFi
+	- https://help.mikrotik.com/docs/spaces/ROS/pages/328155/Configuration+Management
+	- https://help.mikrotik.com/docs/spaces/ROS/pages/328134/Command+Line+Interface
+	- https://www.shellhacks.com/mikrotik-wifi-configuration-simple-setup/
+	- https://forum.mikrotik.com/t/how-to-completely-power-off-device-on-cli/154715/4
+	- https://forum.mikrotik.com/t/how-to-shut-down-router-before-power-off/126859
+	- https://community.spiceworks.com/t/open-source-or-freeware-wlan-controller/156525
+	- 
+- Print server
+	- https://umatechnology.org/fix-canon-printer-not-connecting-to-wifi-with-6-tested-tips/
+	- https://support.usa.canon.com/kb/s/article/ART137511
+	- https://windowsreport.com/canon-printer-not-asking-for-wi-fi-password/
+	- https://community.usa.canon.com/t5/Printer-Software-Networking/Pixma-MX922-will-not-connect-to-wifi-6-router/td-p/337028
+	-
+
+- cmd
+	- https://windowsloop.com/zoom-in-out-command-prompt-powershell/
+	- https://stackoverflow.com/questions/3177971/run-the-last-executed-command-in-windows-command-prompt
+	- https://superuser.com/questions/1728800/windows-repeat-last-command-without-arrow-keys
+	- https://superuser.com/questions/796538/in-windows-command-prompt-how-to-get-the-last-command-that-started-with-some-le
+	- https://superuser.com/questions/272338/what-is-the-equivalent-to-the-linux-file-command-for-windows
+	- https://stackoverflow.com/questions/71268653/is-there-a-windows-equivalent-for-the-unix-ldd-command
+	- https://superuser.com/questions/426226/less-or-more-in-windows
+	- https://scoop.sh/#/apps?q=less&id=e084d861765203aae2d64ada4e59ef350df0f25b
+	- https://scoop.sh/#/apps?q=ldd
+	- https://scoop.sh/#/apps?q=file
+
+- Bash
+	- https://unix.stackexchange.com/questions/147563/how-do-i-repeat-the-last-command-without-using-the-arrow-keys 
+	- https://www.shellhacks.com/windows-grep-equivalent-cmd-powershell/
+- Default app config
+	- https://stackoverflow.com/questions/76205798/how-to-use-powershell-to-switch-default-app-from-pre-determined-list-for-a-giv
+	- https://superuser.com/questions/1748620/on-windows-10-is-there-a-file-i-can-modify-to-configure-the-default-apps
+	- https://www.techrepublic.com/forums/discussions/how-to-use-powershell-to-switch-default-app-from-pre-determined-list/
+	
+- GNU/Linux
+	- https://wiki.alpinelinux.org/wiki/Burning_ISOs
+	- https://wiki.alpinelinux.org/wiki/Diskless_Mode
+	- https://www.reddit.com/r/AlpineLinux/comments/1bezynm/diskless_install_to_disk/
+	- https://www.youtube.com/watch?v=fxfvFMa3V4M
+	- https://askubuntu.com/questions/1332105/install-ubuntu-straight-to-disk-without-creating-a-live-usb
+	- https://alpinelinux.org/downloads/
+	- https://wiki.alpinelinux.org/wiki/Installation#Preparing_installation_media
+	- https://www.reddit.com/r/linuxquestions/comments/tdftbo/do_you_need_a_usb_flash_drive_to_install_linux/
+	- https://www.reddit.com/r/answers/comments/43i2et/why_is_it_recommended_that_you_install_an_os_from/
+	- https://www.youtube.com/watch?v=X78RbISRlgI
+	- https://web.archive.org/web/20120906220957/http://en.gentoo-wiki.com/wiki/Image_Files#Convert_other_image_files_to_ISO
+	- https://linuxnetmag.com/how-to-install-linux-without-usb/
+	- https://www.linuxnest.com/when-theres-no-usb-in-sight-a-comprehensive-guide-to-installing-linux/
+	- https://wiki.alpinelinux.org/wiki/Directly_booting_an_ISO_file
+	- https://wiki.alpinelinux.org/wiki/How_to_make_a_custom_ISO_image
+	- https://wiki.alpinelinux.org/wiki/How_to_make_a_custom_ISO_image_with_mkimage
+	- https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim
+	- 
+- Unraid
+	- https://docs.unraid.net/unraid-os/system-administration/maintain-and-update/changing-the-flash-device/
+	- https://forums.unraid.net/topic/40294-understanding-problem-preclear-a-hdd-what-is-it-quotexactlyquot-doing/
+- conhost
+	- https://devblogs.microsoft.com/commandline/new-experimental-console-features/
+- VPN / CapsMan
+	- https://docs.zerotier.com/cli/
+	- https://docs.zerotier.com/api-central/
+	- https://docs.zerotier.com/tokens/#zerotier-central-token
+	- https://docs.zerotier.com/api-central-examples/
+	- https://docs.zerotier.com/new-central/
+	- 
+- Volume, Partition, and Logical Drive
+	- https://learn.microsoft.com/en-us/windows-server/storage/disk-management/shrink-a-basic-volume
+	- https://techcommunity.microsoft.com/discussions/windows11/how-to-shrink-c-drive-without-losing-data-on-windows-11/4426246
+	- https://www.reddit.com/r/Windows10/comments/9rvnu7/is_resizing_my_c_drive_dangerous/
+	- https://www.thewindowsclub.com/create-new-resize-extend-partition-disk-management-tool
+	- https://www.thewindowsclub.com/difference-between-partition-volume-logical-drive
+	- https://www.windowscentral.com/how-convert-mbr-disk-gpt-move-bios-uefi-windows-10
+	- https://superuser.com/questions/1245299/if-my-motherboard-does-not-support-uefi-bios-can-i-still-use-gpt-for-non-boot-d
+	- https://techdiy.info/ring-en/will-i-lose-data-if-i-change-legacy-mode-to-uefi/
+	- https://techcommunity.microsoft.com/discussions/windows11/how-to-partition-a-hard-drive-in-windows-11-without-losing-data/4248628
+
+- Docker
+	- https://stackoverflow.com/questions/64131567/why-docker-cant-detect-wsl-2-distro-in-windows-10-home
+	- https://stackoverflow.com/questions/60649663/why-does-docker-desktop-uninstall-hang
+	- https://forums.docker.com/t/docker-desktop-distro-missing-on-wsl2-windows/142526/2
+	- https://pureinfotech.com/shutdown-linux-distro-wsl/
+	- https://stackoverflow.com/questions/67406780/not-able-to-start-docker-desktop-in-windows
+	- https://forums.docker.com/t/issues-with-docker-desktop-and-wsl-2-integration/141865
+	- https://medium.com/@adredars/docker-desktop-isnt-starting-after-updating-to-the-latest-version-ab461c55b91b (solved the problem)
+	- https://stackoverflow.com/questions/68368307/how-to-remove-wsl-distro-from-windows
+	- https://forums.docker.com/t/2-docker-desktop-unexpected-wsl-error/145471/4
+	- https://stackoverflow.com/questions/50667371/docker-ps-output-formatting-list-only-names-of-running-containers (docker stop $(docker ps -q -a))
+	- https://docs.docker.com/engine/cli/formatting/
+- Tmux
+	- https://scoop.sh/#/apps?q=tmux
+	- https://superuser.com/questions/408874/tmux-screen-alternative-for-powershell
+	- https://github.com/IT-Administrators/PSTerminalMultiplexerRoH
+- Qemu
+	- https://dev.to/sebos/how-to-use-qemu-to-run-linux-vms-in-minutes-4iag
+	- https://www.qemu.org/2017/11/22/haxm-usage-windows/
+	- https://serverfault.com/questions/623294/how-to-speed-up-qemu-on-windows-host
+- Software removal
+	- https://support.respondus.com/hc/en-us/articles/4409595418907-How-do-I-uninstall-or-remove-LockDown-Browser
+
+- Markov chains
+	- http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-MarkovChains.pdf
+
+- Java
+	- https://docs.oracle.com/en/java/javase/21/migrate/removed-tools-and-components.html#GUID-D7936F0D-08A9-411E-AD2F-E14A38DA56A7
+
+- Bitcoin
+	- https://www.coinbase.com/en-gb/converter/btc/usd
+
+- Graphene OS
+	- https://grapheneos.org/
+	- https://grapheneos.org/install/
+	- https://grapheneos.org/install/cli
+
+- Secure boot
+	- https://superuser.com/questions/1659310/computer-doesnt-post-after-enabling-secure-boot
+
+- SNMP
+	- https://www.chriswirz.com/software/net-snmp-5-9-in-docker
+	- https://github.com/lobradov/docker-net-snmpd
+	- https://theitbros.com/snmp-service-on-windows-10/
+	- https://stackoverflow.com/questions/51311306/docker-containers-monitoring-system-using-snmp
+	- https://learningnetwork.cisco.com/s/article/Understanding-Simple-Network-Management-Protocol--SNMP
+	- https://datatracker.ietf.org/doc/html/rfc1157
+
+- Psychology
+	- https://www.themuse.com/advice/how-to-move-on-when-you-didnt-land-the-job
+
+- Modular PSU
+	- https://www.corsair.com/us/en/c/pc-components-accessories/psu-parts
+	- https://www.ebay.com/itm/134095589789
+	- https://www.ebay.com/itm/115474843310
+	- https://www.corsair.com/us/en/s/psu-cable-compatibility
+
+- Microsoft login fix
+	- https://learn.microsoft.com/en-us/answers/questions/5291136/how-do-i-stop-my-microsoft-account-page-from-conti
+	- https://superuser.com/questions/1183164/how-can-i-prevent-microsoft-online-login-portal-from-redirecting-to-an-old-sso-p
+	- https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
+
+- Access Point
+	- https://help.ui.com/hc/en-us/articles/204909374-Connecting-to-UniFi-with-Debug-Tools-SSH
+	- https://www.amazon.com/Cisco-Aironet-3602I-Access-AIR-CAP3602I/dp/B006DI9K68?th=1
+	- https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/68789-ssh-enable-ap.html
+	- https://community.cisco.com/t5/wireless-small-business/how-to-access-ssh-on-cisco-business-cbw150ax/td-p/5079109
+	- https://help.mikrotik.com/docs/spaces/ROS/pages/132350014/SSH
+	- https://help.mikrotik.com/docs/spaces/UM/pages/279052378/wAP+ax
+	- https://help.mikrotik.com/docs/spaces/ROS/pages/317128725/Configuring+standalone+access+point
+	- https://help.ui.com/hc/en-us/articles/28457353760919-UniFi-Local-Management
+	- https://help.ui.com/hc/en-us/articles/11444786290071-UniFi-Remote-Management-via-Site-Manager
+
+- Google Pixel 8
+	- https://support.google.com/fi/thread/159741311/wi-fi-calling-turned-off-still-making-calls-over-wi-fi?hl=en
+	- https://support.google.com/pixelphone/thread/110819483/how-do-i-disable-wifi-calling-my-wifi-calling-will-automatically-enable-itself?hl=en
+
+- Music
+	- https://bandcamp.com/search?q=lofi%2Bvillain&item_type=a
+	- https://www.dbegun.com/copy-of-premier-magic
+
+- st
+	- https://www.youtube.com/watch?v=vc5UPu76XOw
+	- https://st.suckless.org/
+	- https://www.reddit.com/r/suckless/comments/hjggtk/running_suckless_programs_on_windows/
+	- https://mobaxterm.mobatek.net/
