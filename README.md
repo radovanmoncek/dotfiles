@@ -381,12 +381,15 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
 - https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
 - https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_comments?view=powershell-7.5
-- Virtualization
-	- https://scoop.sh/#/apps?q=qemu
-	- https://wiki.gentoo.org/wiki/QEMU/Front-ends
-	- https://qtemu.org/
-	- https://www.baeldung.com/linux/qemu-from-terminal
-- Vim
+
+#### Virtualization
+
+- https://scoop.sh/#/apps?q=qemu
+- https://wiki.gentoo.org/wiki/QEMU/Front-ends
+- https://qtemu.org/
+- https://www.baeldung.com/linux/qemu-from-terminal
+
+#### Vim
 	- https://vi.stackexchange.com/questions/9444/how-can-i-run-a-batch-file-in-vims-console
 	- https://vi.stackexchange.com/questions/38444/scroll-to-top-of-previous-terminal-command
 	- https://stackoverflow.com/questions/71950509/is-there-a-way-to-prevent-vims-netrw-from-modifying-timestamp-of-directories-i
@@ -547,12 +550,24 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- https://scoop.sh/#/apps?q=tmux
 	- https://superuser.com/questions/408874/tmux-screen-alternative-for-powershell
 	- https://github.com/IT-Administrators/PSTerminalMultiplexerRoH
-- Qemu
-	- https://dev.to/sebos/how-to-use-qemu-to-run-linux-vms-in-minutes-4iag
-	- https://www.qemu.org/2017/11/22/haxm-usage-windows/
-	- https://serverfault.com/questions/623294/how-to-speed-up-qemu-on-windows-host
-- Software removal
-	- https://support.respondus.com/hc/en-us/articles/4409595418907-How-do-I-uninstall-or-remove-LockDown-Browser
+#### Qemu
+
+- https://dev.to/sebos/how-to-use-qemu-to-run-linux-vms-in-minutes-4iag
+- https://www.qemu.org/2017/11/22/haxm-usage-windows/
+- https://serverfault.com/questions/623294/how-to-speed-up-qemu-on-windows-host
+- https://superuser.com/questions/540849/running-virtual-linux-using-qemu-on-windows
+- https://askubuntu.com/questions/1469965/stuck-on-the-try-or-install-ubuntu-screen-when-booting-ubuntu-in-qemu-emulator
+- https://stackoverflow.com/questions/60136854/qemu-hangs-at-boot-time
+- https://wiki.archlinux.org/title/QEMU/Troubleshooting
+- https://serverfault.com/questions/1082884/qemu-freezes-at-booting-from-hard-disk-with-nographic
+- https://gitlab.com/qemu-project/qemu/-/issues/1701
+- https://github.com/cxelshal/VOID_LINUX_UTM/blob/main/Install.md
+- https://wiki.qemu.org/Documentation
+- https://www.qemu.org/docs/master/system/qemu-manpage.html
+
+#### Software removal
+
+- https://support.respondus.com/hc/en-us/articles/4409595418907-How-do-I-uninstall-or-remove-LockDown-Browser
 
 - Markov chains
 	- http://www.stat.yale.edu/~pollard/Courses/251.spring2013/Handouts/Chang-MarkovChains.pdf
@@ -612,8 +627,64 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- https://bandcamp.com/search?q=lofi%2Bvillain&item_type=a
 	- https://www.dbegun.com/copy-of-premier-magic
 
-- st
-	- https://www.youtube.com/watch?v=vc5UPu76XOw
-	- https://st.suckless.org/
-	- https://www.reddit.com/r/suckless/comments/hjggtk/running_suckless_programs_on_windows/
-	- https://mobaxterm.mobatek.net/
+#### st
+	
+- https://www.youtube.com/watch?v=vc5UPu76XOw
+- https://st.suckless.org/
+- https://www.reddit.com/r/suckless/comments/hjggtk/running_suckless_programs_on_windows/
+- https://mobaxterm.mobatek.net/
+- https://www.youtube.com/watch?v=Sw12N7-zqkk
+
+#### VirtualBox Ubuntu
+
+- https://askubuntu.com/questions/1463656/ubuntu-22-04-stuck-in-loading-screen-virtual-box
+- https://superuser.com/questions/1486361/vmware-ubuntu-stuck-on-boot
+
+#### Void Linux with dwm and st
+
+- https://voidlinux.org/download/
+- https://itsfoss.gitlab.io/blog/how-to-install-void-linux-step-by-step/
+- https://youcef889.github.io/Linux_journey/tutorials/how-setup-dwm-on-void-linux-/
+
+#### SMB
+
+- https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbmapping?view=windowsserver2025-ps
+
+#### Unit
+
+- https://www.gbmb.org/gib-to-kb
+
+#### cfdisk
+
+- https://unix.stackexchange.com/questions/235467/arch-linux-cfdisk-asking-for-disk-label-type
+
+#### genfstab/xgenfstab
+
+- https://bbs.archlinux.org/viewtopic.php?id=288106
+- https://wiki.archlinux.org/title/Genfstab
+- https://github.com/archlinux/archinstall/issues/673
+- https://bbs.archlinux.org/viewtopic.php?id=207690
+- https://unix.stackexchange.com/questions/192690/genfstab-not-working
+- https://unix.stackexchange.com/questions/179763/i-cant-create-fstab-while-installing-arch
+- https://www.reddit.com/r/archlinux/comments/15y5bqk/genfstab_no_such_file_or_directory/
+- https://docs.voidlinux.org/installation/guides/chroot.html
+
+#### base-system
+
+- https://www.reddit.com/r/voidlinux/comments/fsj42f/cant_install_a_base_system_with_basevoidstrap/
+- https://docs.voidlinux.org/installation/live-images/guide.html
+- https://linuxmind.dev/2025/09/02/how-to-install-the-operating-system-void/
+- https://github.com/Homebrew/glibc-bootstrap/blob/main/README.md
+- https://docs.voidlinux.org/xbps/troubleshooting/common-issues.html
+- https://docs.voidlinux.org/installation/index.html
+- https://docs.voidlinux.org/installation/guides/index.html
+
+#### chroot dns
+
+- https://superuser.com/questions/1329646/why-do-i-have-to-specify-dns-when-using-chroot
+
+#### Background process powershell
+
+- https://learn.microsoft.com/en-us/powershell/module/threadjob/start-threadjob?view=powershell-7.5
+- https://stackoverflow.com/questions/185575/powershell-equivalent-of-bash-ampersand-for-forking-running-background-proce
+- https://stackoverflow.com/questions/25023458/start-a-detached-background-process-in-powershell
