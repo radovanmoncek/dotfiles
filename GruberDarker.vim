@@ -177,6 +177,8 @@ call <sid>hi('javaType',        s:gruberQuartz, '', '', '')
 call <sid>hi('javaAnnotation',        s:gruberQuartz, '', '', '')
 call <sid>hi('javaDocComment',        s:gruberGreen, '', '', '')
 call <sid>hi('htmlCommentPart',        s:gruberGreen, '', '', '')
+call <sid>hi('javaTypedef',        s:gruberMain, '', '', '')
+call <sid>hi('javaExternal',        s:gruberMain, '', '', '')
 
 " Python Highlighting
 call <sid>hi('pythonRepeat',     s:gruberMain, '',  '',  '')
