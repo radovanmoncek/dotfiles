@@ -10,6 +10,7 @@ Function clearAndFetch{
 
 # Inspired by Gruber Darker - tsoding
 Function prompt {
+    Write-Host "$(Get-Content "$($HOME)\personal\git\dotfiles\TODO.org" -Head 1)" -foregroundcolor Red
 	Write-Host "@" -nonewline -foregroundcolor DarkYellow
 		#Write-Host "$(Get-Date)" -nonewline -foregroundcolor Blue
 		Write-Host "$(($pwd -split "\\")[($pwd -split "\\").Length - 1])" -nonewline -foregroundcolor Blue #DarkYellow
@@ -98,6 +99,26 @@ Function Docker-Desktop {
 	Start-Process -PassThru -Path "C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe"
 }
 
+# References:
+# https://docs.zerotier.com/api-central-examples/
+Function ZeroTier-Authorize ([string]$NetID, [string]$MemID, [boolean]$authorize) {
+    $ZT_TOKEN = "TODO: load from .env"
+	$NetworkID = $NetID
+	$MemberID = $MemID
+
+	$Headers = @{
+	    "Authorization" = "token $ZT_TOKEN"
+	}
+
+	$Body = @{
+	    config = @{
+		authorized = $authorize
+	    }
+	} | Convert-ToJson
+
+	iwr -Uri "https://api.zerotier.com/api/v1/network/$NetID/member/$MemID" -Method Post -Headers $Headers -Body $Body -ContentType "application/json"
+}
+
 New-Alias con WiFi-Connect
 #New-Alias vim Vim-WSL
 New-Alias file File-WSL 
@@ -121,16 +142,16 @@ New-Alias rst Write-Reset
 New-Alias sudo Run-Sudo
 New-Alias rundocker Docker-Desktop
 
-Set-PSReadLineKeyHandler -Chord 'Ctrl+o' -ScriptBlock {
+#Set-PSReadLineKeyHandler -Chord 'Ctrl+o' -ScriptBlock { vim .
 #Set-PSReadLineKeyHandler -AltCCommand
 	#[Microsoft.PowerShell.PSConsoleReadLine]::Insert('FZF-Into-Vim')
 		#wsl vim .
-	[Microsoft.PowerShell.PSConsoleReadLine]::Insert('wsl vim .')
-		[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
-			[Microsoft.PowerShell.PSConsoleReadLine]::InvokePrompt()
+	#[Microsoft.PowerShell.PSConsoleReadLine]::Insert('wsl vim .')
+		#[Microsoft.PowerShell.PSConsoleReadLine]::AcceptLine()
+			#[Microsoft.PowerShell.PSConsoleReadLine]::InvokePrompt()
 			#wsl vim .
 #[Microsoft.PowerShell.PSConsoleReadLine]::ClearHistory()
-} 
+#} 
 
 Get-Message-Of-The-Day
-Vim-WSL .
+vim .
