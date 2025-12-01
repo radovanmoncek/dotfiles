@@ -623,9 +623,10 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- https://support.google.com/fi/thread/159741311/wi-fi-calling-turned-off-still-making-calls-over-wi-fi?hl=en
 	- https://support.google.com/pixelphone/thread/110819483/how-do-i-disable-wifi-calling-my-wifi-calling-will-automatically-enable-itself?hl=en
 
-- Music
-	- https://bandcamp.com/search?q=lofi%2Bvillain&item_type=a
-	- https://www.dbegun.com/copy-of-premier-magic
+#### Music
+
+- https://bandcamp.com/search?q=lofi%2Bvillain&item_type=a
+- https://www.dbegun.com/copy-of-premier-magic
 
 #### st
 	
@@ -634,6 +635,11 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://www.reddit.com/r/suckless/comments/hjggtk/running_suckless_programs_on_windows/
 - https://mobaxterm.mobatek.net/
 - https://www.youtube.com/watch?v=Sw12N7-zqkk
+- https://stackoverflow.com/questions/52588983/i-cant-use-ftgl-ft2build-h-not-found
+- https://brianbuccola.com/how-to-build-and-install-st-suckless-simple-terminal-from-source-on-arch-linux/
+- https://forum.manjaro.org/t/trouble-installing-suckless-st-simple-terminal/97069
+- https://wiki.archlinux.org/title/St
+- https://martijnvos.dev/setting-up-the-st-terminal/
 
 #### VirtualBox Ubuntu
 
@@ -688,3 +694,102 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://learn.microsoft.com/en-us/powershell/module/threadjob/start-threadjob?view=powershell-7.5
 - https://stackoverflow.com/questions/185575/powershell-equivalent-of-bash-ampersand-for-forking-running-background-proce
 - https://stackoverflow.com/questions/25023458/start-a-detached-background-process-in-powershell
+
+#### Qemu sound
+
+- https://computernewb.com/wiki/QEMU/Devices/Sound_cards
+- https://ww2.coastal.edu/mmurphy2/oer/qemu/audio/
+- https://superuser.com/questions/1180336/kvm-qemu-audio-from-windows-guest-to-host-without-spice
+
+#### Linux sound
+
+- https://superuser.com/questions/1816355/how-to-install-sound-driver-on-ubuntu-20-04
+
+#### Void sound ALSA
+
+- https://docs.voidlinux.org/config/media/index.html
+- https://docs.voidlinux.org/config/media/alsa.html
+- https://www.maketecheasier.com/alsa-utilities-manage-linux-audio-command-line/
+- https://forum.tinycorelinux.net/index.php/topic,27673.0.html
+- https://bbs.archlinux.org/viewtopic.php?id=94696
+
+#### Linux groups
+
+- https://linuxhandbook.com/check-group-of-user/
+- https://linuxize.com/post/how-to-add-user-to-group-in-linux/
+
+#### DWM
+
+- https://dwm.suckless.org/multi-monitor/
+- https://crazyoptimist.net/post/2024/how-to-configure-dwm/
+- https://gist.github.com/erlendaakre/12eb90eef84a3ab81f7b531e516c9594
+- https://dwm.suckless.org/patches/maximize/
+- https://medium.com/aardvark-infinity/comprehensive-guide-to-optimized-dwm-configuration-for-advanced-users-fa2c8cdeafbe
+- https://bbs.archlinux.org/viewtopic.php?id=280722
+- https://unix.stackexchange.com/questions/594636/the-default-keybinding-for-opening-a-terminal-in-dwm-does-not-work
+- https://github.com/sineemore/suckless-101
+- https://www.youtube.com/watch?v=6MaTMuFVGck
+- https://stackoverflow.com/questions/31275672/how-to-install-dwm-in-arch-linux
+
+#### Qemu cursor
+
+- https://unix.stackexchange.com/questions/645444/cant-move-mouse-cursor-up-on-qemu
+- https://www.emaculation.com/forum/viewtopic.php?t=11579
+- https://www.emaculation.com/forum/viewtopic.php?t=11970
+- https://torgeir.dev/2024/02/qemu-mouse-cursor-offset/
+
+#### Qemu vga
+
+- https://superuser.com/questions/132322/how-to-increase-the-visualized-screen-resolution-on-qemu-kvm
+- https://clearnightsky.com/how-to-full-screen-qemu-p1312/
+- https://gitlab.com/qemu-project/qemu/-/issues/1423
+
+#### Qemu grab issues/GTK/sdl
+
+- https://gitlab.com/qemu-project/qemu/-/issues/2347
+- https://gitlab.com/qemu-project/qemu/-/issues/2680
+- https://unix.stackexchange.com/questions/107633/how-do-i-get-my-mouse-back-from-qemu-kvm
+- https://www.qemu.org/docs/master/system/keys.html
+- https://lists.gnu.org/archive/html/qemu-discuss/2018-08/msg00040.html
+- https://askubuntu.com/questions/1090643/keyboard-keys-not-working-properly-via-kvm-qemu
+- https://stackoverflow.com/questions/19665412/mouse-and-keyboard-not-working-in-qemu-emulator
+- https://superuser.com/questions/1618776/how-to-completely-disable-mouse-grab-in-qemu
+- https://github.com/SerenityOS/serenity/issues/14883
+- https://qemu-discuss.nongnu.narkive.com/PtliwGab/qemu-does-not-release-mouse-grab-in-windows
+
+#### Pandoc
+
+- https://daveho.github.io/2024/01/24/pandoc-for-presentations.html
+- https://pandoc.org/MANUAL.html
+- https://pandoc.org/
+
+#### X11/Xorg
+
+- https://askubuntu.com/questions/213678/how-to-install-x11-xorg
+- https://docs.voidlinux.org/config/graphical-session/xorg.html
+- https://docs.voidlinux.org/config/network/index.html
+
+#### sed
+
+- https://www.man7.org/linux/man-pages/man1/sed.1.html
+
+#### GRUB/Boot partition
+
+- https://unix.stackexchange.com/questions/709783/cannot-find-a-grub-drive-for-dev-sda1-check-your-device-map
+- https://forums.gentoo.org/viewtopic-p-8816442.html
+- https://docs.voidlinux.org/installation/guides/chroot.html
+- https://unix.stackexchange.com/questions/583330/this-gpt-partition-label-contains-no-bios-boot-partition
+- https://superuser.com/questions/903112/grub2-install-this-gpt-partition-label-contains-no-bios-boot-partition
+
+#### sudoers
+
+- https://www.howtogeek.com/842739/how-to-add-a-user-to-the-sudoers-file-in-linux/
+
+#### Qemu whpx
+
+- https://gitlab.com/qemu-project/qemu/-/issues/1702
+- https://gist.github.com/startergo/9a46fec6caf879027518db08a13df503
+
+#### Qemu as WSL alternative on Windows NT
+
+- https://equalsraf.github.io/articles/2024-07-11-qemu-on-a-windows-host.html
