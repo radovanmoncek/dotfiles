@@ -793,3 +793,19 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 #### Qemu as WSL alternative on Windows NT
 
 - https://equalsraf.github.io/articles/2024-07-11-qemu-on-a-windows-host.html
+
+#### Git
+
+- https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96
+- https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed
+- https://stackoverflow.com/questions/56573522/how-can-i-login-to-git
+
+#### xrandr
+
+- https://askubuntu.com/questions/377937/how-do-i-set-a-custom-resolution
+
+#### st copy/paste
+
+- https://unix.stackexchange.com/questions/471537/st-terminal-copy-on-select-and-right-mouse-click-to-paste
+- https://wiki.archlinux.org/title/Copying_text_from_a_terminal
+- https://en.wikipedia.org/wiki/Cut%2C_copy%2C_and_paste
