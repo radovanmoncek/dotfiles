@@ -815,3 +815,8 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://docs.oracle.com/en/java/javase/17/install/installation-jdk-linux-platforms.html#GUID-ADC9C14A-5F51-4C32-802C-9639A947317F
 - https://opensource.com/article/19/11/install-java-linux
 - https://docs.voidlinux.org/config/external-applications.html
+
+#### st zoom
+
+- https://dev.to/manfromth3m0on/how-to-make-your-terminal-suck-less-3oo1
+- https://www.reddit.com/r/suckless/comments/rsvffu/is_there_an_st_patch_for_zooming_inout/
