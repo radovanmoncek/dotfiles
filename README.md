@@ -820,3 +820,7 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 
 - https://dev.to/manfromth3m0on/how-to-make-your-terminal-suck-less-3oo1
 - https://www.reddit.com/r/suckless/comments/rsvffu/is_there_an_st_patch_for_zooming_inout/
+
+#### Git store credentials for a week
+
+- https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits
