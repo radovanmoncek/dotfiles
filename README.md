@@ -809,3 +809,9 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://unix.stackexchange.com/questions/471537/st-terminal-copy-on-select-and-right-mouse-click-to-paste
 - https://wiki.archlinux.org/title/Copying_text_from_a_terminal
 - https://en.wikipedia.org/wiki/Cut%2C_copy%2C_and_paste
+
+#### Java Void Linux
+
+- https://docs.oracle.com/en/java/javase/17/install/installation-jdk-linux-platforms.html#GUID-ADC9C14A-5F51-4C32-802C-9639A947317F
+- https://opensource.com/article/19/11/install-java-linux
+- https://docs.voidlinux.org/config/external-applications.html
