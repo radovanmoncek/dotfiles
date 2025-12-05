@@ -1,5 +1,5 @@
-### dotfiles
-My perrsonal .files
+#### dotfiles
+My personal .files
 
 ### References
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5
@@ -431,8 +431,10 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- http://vimcasts.org/episodes/evaluating-scripts-with-vims-expression-register/
 	- https://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back
 	- https://stackoverflow.com/questions/18130722/how-to-scroll-up-to-view-the-output-of-system-command-in-vim
-- Fzf
-	- https://raw.githubusercontent.com/junegunn/fzf/refs/heads/master/plugin/fzf.vim
+
+#### Fzf
+	
+- https://raw.githubusercontent.com/junegunn/fzf/refs/heads/master/plugin/fzf.vim
 	- https://github.com/junegunn/fzf/blob/master/plugin/fzf.vim
 	- https://github.com/junegunn/fzf
 	- https://github.com/junegunn
@@ -454,8 +456,10 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- 
 - Sec
 	- https://proton.me/support/pass-import-firefox 
-- Networking
-	- https://www.cloudflare.com/en-gb/learning/ddos/ddos-attack-tools/slowloris/
+
+#### Networking
+	
+- https://www.cloudflare.com/en-gb/learning/ddos/ddos-attack-tools/slowloris/
 	- https://www.cloudflare.com/en-gb/learning/dns/dns-records/dns-cname-record/
 	- https://help.mikrotik.com/docs/spaces/ROS/pages/224559120/WiFi
 	- https://help.mikrotik.com/docs/spaces/ROS/pages/328155/Configuration+Management
@@ -465,6 +469,7 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 	- https://forum.mikrotik.com/t/how-to-shut-down-router-before-power-off/126859
 	- https://community.spiceworks.com/t/open-source-or-freeware-wlan-controller/156525
 	- 
+
 - Print server
 	- https://umatechnology.org/fix-canon-printer-not-connecting-to-wifi-with-6-tested-tips/
 	- https://support.usa.canon.com/kb/s/article/ART137511
@@ -487,10 +492,12 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - Bash
 	- https://unix.stackexchange.com/questions/147563/how-do-i-repeat-the-last-command-without-using-the-arrow-keys 
 	- https://www.shellhacks.com/windows-grep-equivalent-cmd-powershell/
-- Default app config
-	- https://stackoverflow.com/questions/76205798/how-to-use-powershell-to-switch-default-app-from-pre-determined-list-for-a-giv
-	- https://superuser.com/questions/1748620/on-windows-10-is-there-a-file-i-can-modify-to-configure-the-default-apps
-	- https://www.techrepublic.com/forums/discussions/how-to-use-powershell-to-switch-default-app-from-pre-determined-list/
+
+#### Default app config
+
+- https://stackoverflow.com/questions/76205798/how-to-use-powershell-to-switch-default-app-from-pre-determined-list-for-a-giv
+- https://superuser.com/questions/1748620/on-windows-10-is-there-a-file-i-can-modify-to-configure-the-default-apps
+- https://www.techrepublic.com/forums/discussions/how-to-use-powershell-to-switch-default-app-from-pre-determined-list/
 	
 - GNU/Linux
 	- https://wiki.alpinelinux.org/wiki/Burning_ISOs
@@ -767,6 +774,14 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 
 - https://askubuntu.com/questions/213678/how-to-install-x11-xorg
 - https://docs.voidlinux.org/config/graphical-session/xorg.html
+
+#### Void Linux and Qemu netwroking setup
+
+`#ip link show`
+`#cp -R /etc/sv/dhcpd-eth0 /etc/sv/dhcpd-interface`
+`#sed -i 's/eth0/interface/' /etc/sv/dhcpcd-interface/run`
+`#ln -s /etc/sv/dhcpcd-interface /var/service/`
+
 - https://docs.voidlinux.org/config/network/index.html
 
 #### sed
@@ -818,9 +833,14 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 
 #### st zoom
 
+`shift + ctrl + page up`
+
 - https://dev.to/manfromth3m0on/how-to-make-your-terminal-suck-less-3oo1
 - https://www.reddit.com/r/suckless/comments/rsvffu/is_there_an_st_patch_for_zooming_inout/
 
 #### Git store credentials for a week
+
+`git config --global user.email name@email.com`
+`git config --global user.name username`
 
 - https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits
