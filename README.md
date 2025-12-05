@@ -841,6 +841,11 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 #### Git store credentials for a week
 
 `git config --global user.email name@email.com`
+
 `git config --global user.name username`
+
+`git config --global credential.helper 'cache --timeout 604800'`
+
+`git config -l`
 
 - https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits
