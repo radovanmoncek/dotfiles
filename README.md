@@ -849,3 +849,17 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 `git config -l`
 
 - https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits
+
+#### xorg-minimal
+
+`sudo xbps-install xorg-minimal`
+
+`sudo xbps-install xorg-fonts`
+
+`sudo xbps-install xrandr`
+
+- https://github.com/clearlinux/distribution/issues/633
+- https://bbs.archlinux.org/viewtopic.php?id=219327
+- https://bbs.archlinux.org/viewtopic.php?id=299073
+- https://www.reddit.com/r/voidlinux/comments/nt3yk5/getting_started_with_xorgminimal_and_i3_on_vm/
+- https://github.com/void-linux/void-docs/blob/master/src/config/graphical-session/xorg.md
