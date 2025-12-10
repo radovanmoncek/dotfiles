@@ -2,381 +2,386 @@
 My personal .files
 
 ### References
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/smbshare/?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/expand-archive?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/move-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/copy-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process?view=powershell-7.5#-nonewwindow
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/invoke-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/answers/questions/4297430/screenshots-are-stored-where
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
-https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-setup-installing-using-the-mbr-or-gpt-partition-style?view=windows-11
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/vpnclient/add-vpnconnection?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/answers/questions/4351362/microsoft-store-app-location
-https://learn.microsoft.com/en-us/answers/questions/3208014/where-does-windows-10-keep-the-start-menu
-https://learn.microsoft.com/en-gb/is-uw/answers/
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-uptime?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-psdrive?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/start-job?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/measure-object?view=powershell-7.5
-https://learn.microsoft.com/en-gb/search/?terms=bluetooth&category=Documentation&skip=10
-https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/answers/questions/340924/powershell-change-screen-rotation
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-lan
-https://learn.microsoft.com/en-us/sysinternals/downloads/sync
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-psdrive?view=powershell-7.5
-https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/3-exercise-powershell
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-psdrive?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/powershell/module/servercore/set-displayresolution?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/select-string?view=powershell-7.5
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-show
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbshare?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tree
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd
-https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/windows-hardware/design/component-guidelines/bluetooth
-https://learn.microsoft.com/en-us/answers/questions/1358480/does-microsoft-provide-dos-or-powershell-commands
-https://learn.microsoft.com/en-us/answers/questions/3790767/how-to-enable-disable-bluetooth-using-a-command-th
-https://learn.microsoft.com/en-us/powershell/module/appx/get-appxpackage?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2025-ps
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-item?view=powershell-7.5
-https://learn.microsoft.com/en-us/windows/package-manager/winget/
-https://learn.microsoft.com/en-us/windows-server/networking/dns/queries-lookups
-https://learn.microsoft.com/en-us/answers/questions/1318824/how-to-fix-domain-zone-error-nxdomain
-https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/troubleshooting-dns-dynamic-update-issues
-https://learn.microsoft.com/en-us/windows/win32/nativewifi/wpa2-personal-profile-sample
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup
-https://learn.microsoft.com/en-us/windows/wsl/connect-usb
-https://learn.microsoft.com/en-us/answers/questions/1144917/microsoft-edge-breakdown-when-using-it-to-view-and
-https://learn.microsoft.com/en-us/gaming/gdk/docs/services/multiplayer/mpsd/live-mpsd-overview
-https://learn.microsoft.com/en-gb/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#manage-add-in-downloads-by-turning-onoff-the-office-store-across-all-apps-except-outlook
-https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding
-https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490998(v=technet.10)
-https://emacs.stackexchange.com/questions/35775/how-to-kill-magit-diffs-buffers-on-quit
-https://emacs.stackexchange.com/questions/5603/how-to-quickly-copy-move-file-in-emacs-dired
-https://emacs.stackexchange.com/questions/55529/how-to-rename-a-file-with-dired-with-the-current-file-name-as-default
-https://emacs.stackexchange.com/questions/751/fundamentals-of-multiple-cursors
-https://emacs.stackexchange.com/questions/29015/how-to-compile-view-or-preview-using-markdown-mode
-https://emacs.stackexchange.com/questions/37178/magit-cant-do-any-command-on-emacs
-https://emacs.stackexchange.com/questions/82673/typing-in-large-markdown-buffers-is-slow-due-to-corfu-and-flyspell-how-to-addre
-https://emacs.stackexchange.com/questions/62376/slow-markdown-mode-as-emacs-spends-lots-of-time-fontifying
-https://emacs.stackexchange.com/questions/27110/markdown-preview-in-emacs-using-pandoc
-https://emacs.stackexchange.com/questions/53764/how-to-exit-read-only-mode
-https://emacs.stackexchange.com/questions/29172/how-to-set-the-keybinding-for-select-all-to-ctrl-a
-https://emacs.stackexchange.com/questions/37783/ssh-pseudo-terminal-will-not-be-allocated-because-stdin-is-not-a-terminal
-https://emacs.stackexchange.com/questions/72624/after-establishing-a-ssh-connectia-via-eshell-dumb-terminal-cant-run-emacs
-https://emacs.stackexchange.com/questions/62219/how-do-i-get-colour-emoji-to-display-in-emacs
-https://emacs.stackexchange.com/questions/64792/where-should-i-find-init-el-if-it-is-not-in-emacs-d
-https://emacs.stackexchange.com/questions/81488/emacs-m-x-shortcuts
-https://superuser.com/questions/176624/linux-top-command-for-windows-powershell
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.5#notes
-https://stackoverflow.com/questions/31386494/powershell-find-path-to-connected-android-phone
-https://superuser.com/questions/1733270/how-to-find-absolute-path-to-devices-attached-to-windows-10-machine-like-phones
-https://stackoverflow.com/questions/13382638/how-can-i-bulk-rename-files-in-powershell
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-item?view=powershell-7.5
-https://www.youtube.com/watch?v=8uS90jakOuw
-https://github.com/jdhitsolutions/PSCalendar
-https://forums.unraid.net/topic/113589-mount-unraid-disk-in-another-linux-os/
-https://www.youtube.com/watch?v=dX2PvD1qtKw
-https://www.youtube.com/watch?v=nV5snitWrBk
-https://www.asus.com/support/download-center/
-https://icecat.biz/rest/product-pdf?productId=334850&lang=en
-https://www.asus.com/support/faq/1054136/
-https://cdrinfo.com/d7/content/asus-ai-proactive-motherboards-%E2%80%93-smart-features-enhance-915pg-and-925x-platforms
-https://impactortho.com/jaw-surgery-recovery-healing-process/
-https://www.reddit.com/r/jawsurgery/comments/16d21pa/1_year_postop_heres_my_advice/
-https://www.jorgechahlamd.com/wp-content/uploads/2024/06/Post-Op-Instruction-Summary-Osteotomy.pdf
-https://www.delmarfans.com/emeryallen-bulbs/g4-series/ea-g4-2-0w-003-3090/
-https://aistudio.google.com/prompts/new_chat
-https://www.maximlighting.com/product/indoor-lighting/ceiling-fans-light-kits/52-super-max-fan-w-led-light-kit--white/88937MW
-https://icecat.biz/p/asus/90-mbl09g-g0eay/motherboards-p5gd1+pro-334850.html
-https://www.cyberciti.biz/faq/find-linux-distribution-name-version-number/
-https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.5
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/replace
-https://adamtheautomator.com/powershell-replace/
-https://stackoverflow.com/questions/4988226/how-do-i-pass-multiple-parameters-into-a-function-in-powershell
-https://github.com/drsooch/gruber-darker-vim/blob/master/colors/GruberDarker.vim
-Vim
-https://www.vim.org/docs.php
-https://github.com/amix/vimrc
-https://learnvim.irian.to/customize/vimrc
-https://linuxhandbook.com/vim-color-schemes/
-https://learn.microsoft.com/en-us/powershell/scripting/samples/working-with-files-and-folders?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5#related-links
-https://superuser.com/questions/1802298/powershell-equivalent-of-dir-a
-https://www.vim.page/vimrc-configuration-guide
-https://vi.stackexchange.com/questions/3/how-can-i-show-relative-line-numbers
-https://github.com/rexim/gruber-darker-theme/blob/master/gruber-darker-theme.el
-https://jblevins.org/projects/emacs-color-themes/
-https://daringfireball.net/projects/bbcolors/schemes/Gruber%20Dark.bbcolors
-https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
-https://standards.ieee.org/ieee/802.11ax/7180/
-https://www.cisco.com/site/us/en/learn/topics/networking/what-is-wi-fi-7.html
-https://www.intel.com/content/www/us/en/products/docs/wireless/wi-fi-7.html
-https://www.cisco.com/c/en/us/products/collateral/wireless/white-paper-c11-740788.pdf
-Power Shell 7
-https://stackoverflow.com/questions/39190435/function-not-accessible-in-a-scriptblock
-https://stackoverflow.com/questions/2416662/what-are-the-powershell-equivalents-of-bashs-and-operators
-https://stackoverflow.com/questions/59038605/is-there-a-powershell-pattern-for-if/59039112#59039112
-https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server
-https://learn.microsoft.com/en-us/answers/questions/5526559/how-can-i-find-the-version-of-powershell-installed
-https://learn.microsoft.com/en-us/powershell/scripting/whats-new/migrating-from-windows-powershell-51-to-powershell-7?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5
-https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/creating-profiles?view=powershell-7.5
-https://superuser.com/questions/1268727/powershell-profile-does-not-load
-https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5&viewFallbackFrom=powershell-6&preserve-view=true
-https://www.powershellgallery.com/packages/PSMotd/0.1.0
-https://github.com/HeyItsGilbert/PSMotd
-https://github.com/joeyaiello/ps-motd/blob/master/Get-MOTD.ps1
-https://superuser.com/questions/645721/is-there-a-way-to-change-the-powershell-banner-message
-https://devblogs.microsoft.com/scripting/use-powershell-to-retrieve-a-weather-forecast/
-https://emojiterra.com/smiling-face-with-halo/
-https://superuser.com/questions/1709074/color-highlight-a-select-string-powershell
-https://www.man7.org/linux/man-pages/man1/file.1.html
-https://www.man7.org/linux/man-pages/man1/ldd.1.html
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.5
-https://stackoverflow.com/questions/10286164/function-return-value-in-powershell
-https://stackoverflow.com/questions/42332394/failed-powershell-validateset-error-action-to-set-variable-to-default
-https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlinekeyhandler?view=powershell-7.5
-https://learn.microsoft.com/en-us/dotnet/api/system.management.automation.scriptblock?view=powershellsdk-7.4.0
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/invoke-command?view=powershell-7.5
-https://github.com/kelleyma49/PSFzf
-https://stackoverflow.com/questions/23237473/powershell-launch-script-in-new-instance
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/type
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
-https://stackoverflow.com/questions/17755504/piping-into-a-scriptblock
-https://powershellguide.com/PowerShell/ScriptBlock/
-https://powershellguide.com/PowerShell/Operators/
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.5
-https://powershellguide.com/PowerShell/Concepts/The-Object-Pipeline/
-https://stackoverflow.com/questions/52757670/why-does-write-output-not-work-inside-a-powershell-class-method
-https://community.spiceworks.com/t/powershell-write-output-not-always-writing-to-console/693062/7
-https://serverfault.com/questions/936477/powershell-invoke-command-works-when-run-manually-but-not-when-in-a-script
-https://superuser.com/questions/1775803/powershell-return-is-not-exiting-a-function
-https://stackoverflow.com/questions/59423817/call-a-function-inside-a-script-block-powershell
-https://stackoverflow.com/questions/40980343/powershell-function-doesnt-produce-output
-https://learn.microsoft.com/en-us/answers/questions/1321298/i-cant-get-powershell-start-job-scriptblock-or-saj
-https://stackoverflow.com/questions/79624186/how-can-i-create-a-powershell-function-to-wrap-multiple-nested-script-blocks
-https://yomotherboard.com/question/trouble-with-nested-scriptblocks-in-powershell-jobs/
-https://learn.microsoft.com/en-us/answers/questions/755242/script-is-running-with-no-issues-but-the-output-is
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_script_blocks?view=powershell-7.5
-https://superuser.com/questions/1263008/write-to-stdout-inside-callbacks-and-functions
-https://stackoverflow.com/questions/73426469/set-psreadlinekeyhandler-get-registered-but-cant-be-triggered
-https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline?view=powershellsdk-1.1.0
-https://stackoverflow.com/questions/567650/how-to-reload-user-profile-from-script-file-in-powershell
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5
-https://stackoverflow.com/questions/73905896/powershell-7-bind-my-function-to-shortcut
-https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline.addline?view=powershellsdk-1.1.0#microsoft-powershell-psconsolereadline-addline(system-nullable((system-consolekeyinfo))-system-object)
-https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlinekeyhandler?view=powershell-7.5&viewFallbackFrom=powershell-7.2#example-2-bind-a-key-to-a-script-block
-https://www.man7.org/linux/man-pages/man1/nm.1.html
-https://learn.microsoft.com/en-us/answers/questions/791059/wsl-2-sudo-apt-get-update-gives-temporary-failure
-https://askubuntu.com/questions/1511584/cant-update-to-ubuntu-24-04-lts-on-wsl2
-https://stackoverflow.com/questions/76693148/apt-debian-repository-does-not-have-a-release-file
-https://www.antixforum.com/forums/topic/antix19-5-bullseye-backports-rlease-no-longer-has-a-release-file/
-https://ioflood.com/blog/install-nm-command-linux/
-https://superuser.com/questions/1782162/how-can-i-fix-these-apt-repository-errors
-https://ftp.debian.org/debian/
-https://manpages.debian.org/buster/apt/apt-secure.8.en.html
-https://github.com/kelleyma49/PSFzf
-https://vimhelp.org/quickref.txt.html
-https://linuxize.com/post/vim-find-replace/
-https://learn.microsoft.com/en-us/answers/questions/3235659/netsh-how-to-connect-to-wifi(ssid)-with-username-a
-https://lazyadmin.nl/it/netsh-wlan-commands/
-https://superuser.com/questions/1003903/connect-to-wireless-network-without-existing-profile-through-netsh
-https://stackoverflow.com/questions/35232162/add-wifi-profile-with-password-in-windows-programmatically
-https://learn.microsoft.com/en-us/windows/win32/nativewifi/wireless-profile-samples
-https://learn.microsoft.com/en-us/windows/win32/nativewifi/wpa3-personal-transition-profile-sample
-https://www.rapidtables.com/convert/number/ascii-to-hex.html
-https://www.ninjaone.com/blog/how-to-add-a-wi-fi-network-profile-without-connecting/
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-wlan
-https://wiki.alpinelinux.org/wiki/Setting_the_timezone
-https://www.maketecheasier.com/best-terminal-emulators-for-windows/
-https://www.fs.com/blog/understanding-power-over-ethernet-poe-media-converter-5039.html
-https://stackoverflow.com/questions/72104301/powershell-open-url-in-new-window-system-diagnostics-processstart
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/smbshare/?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.archive/expand-archive?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/move-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/copy-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process?view=powershell-7.5#-nonewwindow
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/invoke-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/answers/questions/4297430/screenshots-are-stored-where
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
+- https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-setup-installing-using-the-mbr-or-gpt-partition-style?view=windows-11
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/vpnclient/add-vpnconnection?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/answers/questions/4351362/microsoft-store-app-location
+- https://learn.microsoft.com/en-us/answers/questions/3208014/where-does-windows-10-keep-the-start-menu
+- https://learn.microsoft.com/en-gb/is-uw/answers/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-uptime?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-psdrive?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/start-job?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/measure-object?view=powershell-7.5
+- https://learn.microsoft.com/en-gb/search/?terms=bluetooth&category=Documentation&skip=10
+- https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/answers/questions/340924/powershell-change-screen-rotation
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-lan
+- https://learn.microsoft.com/en-us/sysinternals/downloads/sync
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-psdrive?view=powershell-7.5
+- https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/3-exercise-powershell
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-psdrive?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/powershell/module/servercore/set-displayresolution?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/select-string?view=powershell-7.5
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-show
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbshare?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/tree
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cd
+- https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/windows-hardware/design/component-guidelines/bluetooth
+- https://learn.microsoft.com/en-us/answers/questions/1358480/does-microsoft-provide-dos-or-powershell-commands
+- https://learn.microsoft.com/en-us/answers/questions/3790767/how-to-enable-disable-bluetooth-using-a-command-th
+- https://learn.microsoft.com/en-us/powershell/module/appx/get-appxpackage?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2025-ps
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-item?view=powershell-7.5
+- https://learn.microsoft.com/en-us/windows/package-manager/winget/
+- https://learn.microsoft.com/en-us/windows-server/networking/dns/queries-lookups
+- https://learn.microsoft.com/en-us/answers/questions/1318824/how-to-fix-domain-zone-error-nxdomain
+- https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/troubleshooting-dns-dynamic-update-issues
+- https://learn.microsoft.com/en-us/windows/win32/nativewifi/wpa2-personal-profile-sample
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup
+- https://learn.microsoft.com/en-us/windows/wsl/connect-usb
+- https://learn.microsoft.com/en-us/answers/questions/1144917/microsoft-edge-breakdown-when-using-it-to-view-and
+- https://learn.microsoft.com/en-us/gaming/gdk/docs/services/multiplayer/mpsd/live-mpsd-overview
+- https://learn.microsoft.com/en-gb/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#manage-add-in-downloads-by-turning-onoff-the-office-store-across-all-apps-except-outlook
+- https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding
+- https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490998(v=technet.10)
 
-https://superuser.com/questions/362152/native-alternative-to-wget-in-windows-powershell
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.5
-https://www.windowsdigitals.com/powershell-open-url-in-chrome-edge-or-firefox/
-https://vimhelp.org/quickref.txt.html
-https://vimhelp.org/pattern.txt.html#N
-https://github.com/kelleyma49/PSFzf
-https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline?view=powershellsdk-1.1.0
-https://www.zerotier.com/
-https://www.youtube.com/watch?v=LTP5c4NqA8k
-27/10/2025 12:42:40
-https://stackoverflow.com/questions/19754849/vim-syntax-highlighting-does-not-work
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-clipboard?view=powershell-7.5
-https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim
-https://stackoverflow.com/questions/36108950/setting-up-powershell-as-vims-shell-command-does-not-seem-to-be-passed-correct
-https://stackoverflow.com/questions/76760846/vim-in-windows-powershell-no-longer-using-colour-and-backspace-no-longer-working
-https://stackoverflow.com/questions/11666170/persistent-set-syntax-for-a-given-filetype
-https://stackoverflow.com/questions/31297365/how-to-continuously-read-serial-com-port-in-powershell-and-occasionally-write-to
-https://www.java.com/en/download/help/enable_browser.html
-https://www.geeksforgeeks.org/java/web-browsers-that-support-java-applets-and-how-to-enable-them/
-https://www.thoughtco.com/disabling-or-enabling-the-java-plugin-in-a-browser-2034111
-https://www.greengeeks.com/tutorials/enable-java-in-firefox-3-methods/
-https://www.javaspring.net/blog/enable-java-firefox/
-https://www.java.com/en/download/uninstalltool.jsp
-https://superuser.com/questions/467398/how-do-i-exit-an-ssh-connection
-https://stackoverflow.com/questions/20403257/how-to-write-cr-lf-line-ending-into-serialport-with-c-or-python
-https://thequickadvisor.com/how-to-connect-to-com-serial-port-via-powershell/
-https://eecs.blog/serial-port-communication-with-powershell/
-https://shrewdadmin.com/powershell-script-to-set-com-port-for-usb-serial-port/
-https://stackoverflow.com/questions/50865430/readling-data-from-serial-port-causes-powershell-to-hang
-https://community.spiceworks.com/t/hp-procurve-cli-cheat-sheet/1009357
-https://arubanetworking.hpe.com/techdocs/AOS-CX/10.08/HTML/fundamentals_6300-6400/Content/Chp_IniCfg/con-con-por.htm
-https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/18
-https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/19#img
-https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/20#img
-https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/21#img
-https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/22#img
-https://forums.ni.com/t5/LabVIEW/How-to-write-Enter-key-to-serial-port-COM1/td-p/330958
-https://batchloaf.wordpress.com/2013/02/12/simple-trick-for-sending-characters-to-a-serial-port-in-windows/
-https://exchangetuts.com/sending-enter-key-through-serial-port-1640489224783962
-https://learn.microsoft.com/en-us/dotnet/visual-basic/developing-apps/programming/computer-resources/how-to-send-strings-to-serial-ports
-https://stackoverflow.com/questions/4805721/sending-enter-key-through-serial-port
-https://learn.microsoft.com/en-us/answers/questions/517562/switching-com-ports-using-script-or-powershell-or
-https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=net-9.0-pp
-https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.write?view=net-9.0-pp#system-io-ports-serialport-write(system-byte()-system-int32-system-int32)
-https://powershellfaqs.com/create-byte-arrays-in-powershell/
-https://stackoverflow.com/questions/17474131/creating-byte-in-powershell
-https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.-ctor?view=net-9.0-pp
-https://unix.stackexchange.com/questions/117037/how-to-send-data-to-a-serial-port-and-see-any-answer
-https://forum.arduino.cc/t/sending-carriage-return-enter-to-the-serial-port/140981/2
-https://z49x2vmq.github.io/2017/11/12/putty-cr-lf-en/
-https://scoop.sh/#/apps?q=qemu
-https://superuser.com/questions/714078/wrong-newline-character-over-serial-port-cr-instead-of-lf
-https://jay-miah.co.uk/index.php/connecting-to-a-hp-procurve-switch-using-a-console-cable-putty/
-https://ftp.hp.com/pub/networking/software/6400-5300-4200-3400-MgmtCfg-Oct2006-59906050-Chap04.pdf
-https://stackoverflow.com/questions/37404049/connect-com-port-using-windows-terminal
-https://community.spiceworks.com/t/com-port-issue/940195
-https://gist.github.com/heiswayi/10b412aa96d3f35d85f5f8c2e0075a33
-https://networkengineering.stackexchange.com/questions/29115/connecting-hp-procurve-2626-switch-to-pc
-https://forums.ni.com/t5/LabVIEW/LabVIEW-Send-CRLF-as-Termination-Character-in-Serial-Port/td-p/3751808
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/read-host?view=powershell-7.5
-https://serverfault.com/questions/798571/how-can-i-connect-to-a-cisco-switch-via-serial-console-cable-from-powershell
-https://superuser.com/questions/1212029/how-can-i-reset-windows-powershell-command-prompt-like-reset-in-bash
-https://duckduckgo.com/?t=ffab&q=char+13&ia=web
-https://devblogs.microsoft.com/powershell/writing-and-reading-info-from-serial-ports/
-https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.5
-https://superuser.com/questions/1412117/list-all-the-serial-ports-available-and-busy-on-any-of-windows-terminals
-https://qemu.eu/w64/2021/
-https://www.qemu.org/download/#windows
-https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/best-practices-for-running-linux-on-hyper-v
-https://scoop.sh/#/apps?q=putty
-https://www.techbloat.com/how-to-install-a-linux-virtual-machine-on-microsoft-hyper-v.html
-30/10/2025 09:37:46
-https://stackoverflow.com/questions/14204230/how-to-list-the-files-in-a-zip-in-powershell
-https://stackoverflow.com/questions/32867123/how-to-run-a-cmd-line-application-in-powershell
-https://i.sstatic.net/PnUre.png
-https://www.hpe.com/uk/en/networking.html
-https://superuser.com/questions/1787945/java-error-with-the-hp-procurve-2510-24-j9019b-network-switch-web-interface
-https://docs.docker.com/reference/cli/docker/container/attach/
-https://stackoverflow.com/questions/35573698/why-does-docker-attach-hang
-https://unix.stackexchange.com/questions/582626/alpine-linux-missing-shutdown-command
-https://dotnet-helpers.com/powershell/how-to-use-vim-editor-in-powershell/
-https://scoop.sh/#/apps?q=vim
-https://www.palemoon.org/download.shtml
-https://scoop.sh/#/apps?q=palemoon
-https://shellgeek.com/powershell-telnet-and-alternatives-to-telnet-command/
-https://voidlinux.org/
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-computer?view=powershell-7.5
-https://rss.com/blog/how-do-rss-feeds-work/
-https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?hl=en&pli=1
-https://superuser.com/questions/216617/view-list-of-files-in-zip-archive-on-linux
-https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options#option_setdcvalueindex
-https://www.palemoon.org/
-https://www.youtube.com/watch?v=-IjQQWp5_NI
-https://www.youtube.com/watch?v=M2X-t7d8g9s
-https://www.youtube.com/watch?v=wBOW86q1Vlo
-https://www.youtube.com/watch?v=3YXxsEWMldo
-https://scoop.sh/#/apps?q=telnet
-https://stackoverflow.com/questions/42292276/vim-how-to-get-the-file-path-directory-of-opened-buffer-and-do-something
-https://unix.stackexchange.com/questions/224297/ex-editor-go-to-previous-file
-https://unix.stackexchange.com/questions/52179/how-to-switch-to-the-directory-listing-from-file-view-in-vim
-https://stackoverflow.com/questions/60931417/where-can-i-find-vimrc-file-in-windows
+#### Emacs
+
+- https://emacs.stackexchange.com/questions/35775/how-to-kill-magit-diffs-buffers-on-quit
+- https://emacs.stackexchange.com/questions/5603/how-to-quickly-copy-move-file-in-emacs-dired
+- https://emacs.stackexchange.com/questions/55529/how-to-rename-a-file-with-dired-with-the-current-file-name-as-default
+- https://emacs.stackexchange.com/questions/751/fundamentals-of-multiple-cursors
+- https://emacs.stackexchange.com/questions/29015/how-to-compile-view-or-preview-using-markdown-mode
+- https://emacs.stackexchange.com/questions/37178/magit-cant-do-any-command-on-emacs
+- https://emacs.stackexchange.com/questions/82673/typing-in-large-markdown-buffers-is-slow-due-to-corfu-and-flyspell-how-to-addre
+- https://emacs.stackexchange.com/questions/62376/slow-markdown-mode-as-emacs-spends-lots-of-time-fontifying
+- https://emacs.stackexchange.com/questions/27110/markdown-preview-in-emacs-using-pandoc
+- https://emacs.stackexchange.com/questions/53764/how-to-exit-read-only-mode
+- https://emacs.stackexchange.com/questions/29172/how-to-set-the-keybinding-for-select-all-to-ctrl-a
+- https://emacs.stackexchange.com/questions/37783/ssh-pseudo-terminal-will-not-be-allocated-because-stdin-is-not-a-terminal
+- https://emacs.stackexchange.com/questions/72624/after-establishing-a-ssh-connectia-via-eshell-dumb-terminal-cant-run-emacs
+- https://emacs.stackexchange.com/questions/62219/how-do-i-get-colour-emoji-to-display-in-emacs
+- https://emacs.stackexchange.com/questions/64792/where-should-i-find-init-el-if-it-is-not-in-emacs-d
+- https://emacs.stackexchange.com/questions/81488/emacs-m-x-shortcuts
+
+
+- https://superuser.com/questions/176624/linux-top-command-for-windows-powershell
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process?view=powershell-7.5#notes
+- https://stackoverflow.com/questions/31386494/powershell-find-path-to-connected-android-phone
+- https://superuser.com/questions/1733270/how-to-find-absolute-path-to-devices-attached-to-windows-10-machine-like-phones
+- https://stackoverflow.com/questions/13382638/how-can-i-bulk-rename-files-in-powershell
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-item?view=powershell-7.5
+- https://www.youtube.com/watch?v=8uS90jakOuw
+- https://github.com/jdhitsolutions/PSCalendar
+- https://forums.unraid.net/topic/113589-mount-unraid-disk-in-another-linux-os/
+- https://www.youtube.com/watch?v=dX2PvD1qtKw
+- https://www.youtube.com/watch?v=nV5snitWrBk
+- https://www.asus.com/support/download-center/
+- https://icecat.biz/rest/product-pdf?productId=334850&lang=en
+- https://www.asus.com/support/faq/1054136/
+- https://cdrinfo.com/d7/content/asus-ai-proactive-motherboards-%E2%80%93-smart-features-enhance-915pg-and-925x-platforms
+- https://impactortho.com/jaw-surgery-recovery-healing-process/
+- https://www.reddit.com/r/jawsurgery/comments/16d21pa/1_year_postop_heres_my_advice/
+- https://www.jorgechahlamd.com/wp-content/uploads/2024/06/Post-Op-Instruction-Summary-Osteotomy.pdf
+- https://www.delmarfans.com/emeryallen-bulbs/g4-series/ea-g4-2-0w-003-3090/
+- https://aistudio.google.com/prompts/new_chat
+- https://www.maximlighting.com/product/indoor-lighting/ceiling-fans-light-kits/52-super-max-fan-w-led-light-kit--white/88937MW
+- https://icecat.biz/p/asus/90-mbl09g-g0eay/motherboards-p5gd1+pro-334850.html
+- https://www.cyberciti.biz/faq/find-linux-distribution-name-version-number/
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions?view=powershell-7.5
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/replace
+- https://adamtheautomator.com/powershell-replace/
+- https://stackoverflow.com/questions/4988226/how-do-i-pass-multiple-parameters-into-a-function-in-powershell
+- https://github.com/drsooch/gruber-darker-vim/blob/master/colors/GruberDarker.vim
+- Vim
+- https://www.vim.org/docs.php
+- https://github.com/amix/vimrc
+- https://learnvim.irian.to/customize/vimrc
+- https://linuxhandbook.com/vim-color-schemes/
+- https://learn.microsoft.com/en-us/powershell/scripting/samples/working-with-files-and-folders?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5#related-links
+- https://superuser.com/questions/1802298/powershell-equivalent-of-dir-a
+- https://www.vim.page/vimrc-configuration-guide
+- https://vi.stackexchange.com/questions/3/how-can-i-show-relative-line-numbers
+- https://github.com/rexim/gruber-darker-theme/blob/master/gruber-darker-theme.el
+- https://jblevins.org/projects/emacs-color-themes/
+- https://daringfireball.net/projects/bbcolors/schemes/Gruber%20Dark.bbcolors
+- https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/
+- https://standards.ieee.org/ieee/802.11ax/7180/
+- https://www.cisco.com/site/us/en/learn/topics/networking/what-is-wi-fi-7.html
+- https://www.intel.com/content/www/us/en/products/docs/wireless/wi-fi-7.html
+- https://www.cisco.com/c/en/us/products/collateral/wireless/white-paper-c11-740788.pdf
+- Power Shell 7
+- https://stackoverflow.com/questions/39190435/function-not-accessible-in-a-scriptblock
+- https://stackoverflow.com/questions/2416662/what-are-the-powershell-equivalents-of-bashs-and-operators
+- https://stackoverflow.com/questions/59038605/is-there-a-powershell-pattern-for-if/59039112#59039112
+- https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server
+- https://learn.microsoft.com/en-us/answers/questions/5526559/how-can-i-find-the-version-of-powershell-installed
+- https://learn.microsoft.com/en-us/powershell/scripting/whats-new/migrating-from-windows-powershell-51-to-powershell-7?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/creating-profiles?view=powershell-7.5
+- https://superuser.com/questions/1268727/powershell-profile-does-not-load
+- https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mklink
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-7.5&viewFallbackFrom=powershell-6&preserve-view=true
+- https://www.powershellgallery.com/packages/PSMotd/0.1.0
+- https://github.com/HeyItsGilbert/PSMotd
+- https://github.com/joeyaiello/ps-motd/blob/master/Get-MOTD.ps1
+- https://superuser.com/questions/645721/is-there-a-way-to-change-the-powershell-banner-message
+- https://devblogs.microsoft.com/scripting/use-powershell-to-retrieve-a-weather-forecast/
+- https://emojiterra.com/smiling-face-with-halo/
+- https://superuser.com/questions/1709074/color-highlight-a-select-string-powershell
+- https://www.man7.org/linux/man-pages/man1/file.1.html
+- https://www.man7.org/linux/man-pages/man1/ldd.1.html
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process?view=powershell-7.5
+- https://stackoverflow.com/questions/10286164/function-return-value-in-powershell
+- https://stackoverflow.com/questions/42332394/failed-powershell-validateset-error-action-to-set-variable-to-default
+- https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlinekeyhandler?view=powershell-7.5
+- https://learn.microsoft.com/en-us/dotnet/api/system.management.automation.scriptblock?view=powershellsdk-7.4.0
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/invoke-command?view=powershell-7.5
+- https://github.com/kelleyma49/PSFzf
+- https://stackoverflow.com/questions/23237473/powershell-launch-script-in-new-instance
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/type
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
+- https://stackoverflow.com/questions/17755504/piping-into-a-scriptblock
+- https://powershellguide.com/PowerShell/ScriptBlock/
+- https://powershellguide.com/PowerShell/Operators/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.5
+- https://powershellguide.com/PowerShell/Concepts/The-Object-Pipeline/
+- https://stackoverflow.com/questions/52757670/why-does-write-output-not-work-inside-a-powershell-class-method
+- https://community.spiceworks.com/t/powershell-write-output-not-always-writing-to-console/693062/7
+- https://serverfault.com/questions/936477/powershell-invoke-command-works-when-run-manually-but-not-when-in-a-script
+- https://superuser.com/questions/1775803/powershell-return-is-not-exiting-a-function
+- https://stackoverflow.com/questions/59423817/call-a-function-inside-a-script-block-powershell
+- https://stackoverflow.com/questions/40980343/powershell-function-doesnt-produce-output
+- https://learn.microsoft.com/en-us/answers/questions/1321298/i-cant-get-powershell-start-job-scriptblock-or-saj
+- https://stackoverflow.com/questions/79624186/how-can-i-create-a-powershell-function-to-wrap-multiple-nested-script-blocks
+- https://yomotherboard.com/question/trouble-with-nested-scriptblocks-in-powershell-jobs/
+- https://learn.microsoft.com/en-us/answers/questions/755242/script-is-running-with-no-issues-but-the-output-is
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_script_blocks?view=powershell-7.5
+- https://superuser.com/questions/1263008/write-to-stdout-inside-callbacks-and-functions
+- https://stackoverflow.com/questions/73426469/set-psreadlinekeyhandler-get-registered-but-cant-be-triggered
+- https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline?view=powershellsdk-1.1.0
+- https://stackoverflow.com/questions/567650/how-to-reload-user-profile-from-script-file-in-powershell
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.5
+- https://stackoverflow.com/questions/73905896/powershell-7-bind-my-function-to-shortcut
+- https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline.addline?view=powershellsdk-1.1.0#microsoft-powershell-psconsolereadline-addline(system-nullable((system-consolekeyinfo))-system-object)
+- https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlinekeyhandler?view=powershell-7.5&viewFallbackFrom=powershell-7.2#example-2-bind-a-key-to-a-script-block
+- https://www.man7.org/linux/man-pages/man1/nm.1.html
+- https://learn.microsoft.com/en-us/answers/questions/791059/wsl-2-sudo-apt-get-update-gives-temporary-failure
+- https://askubuntu.com/questions/1511584/cant-update-to-ubuntu-24-04-lts-on-wsl2
+- https://stackoverflow.com/questions/76693148/apt-debian-repository-does-not-have-a-release-file
+- https://www.antixforum.com/forums/topic/antix19-5-bullseye-backports-rlease-no-longer-has-a-release-file/
+- https://ioflood.com/blog/install-nm-command-linux/
+- https://superuser.com/questions/1782162/how-can-i-fix-these-apt-repository-errors
+- https://ftp.debian.org/debian/
+- https://manpages.debian.org/buster/apt/apt-secure.8.en.html
+- https://github.com/kelleyma49/PSFzf
+- https://vimhelp.org/quickref.txt.html
+- https://linuxize.com/post/vim-find-replace/
+- https://learn.microsoft.com/en-us/answers/questions/3235659/netsh-how-to-connect-to-wifi(ssid)-with-username-a
+- https://lazyadmin.nl/it/netsh-wlan-commands/
+- https://superuser.com/questions/1003903/connect-to-wireless-network-without-existing-profile-through-netsh
+- https://stackoverflow.com/questions/35232162/add-wifi-profile-with-password-in-windows-programmatically
+- https://learn.microsoft.com/en-us/windows/win32/nativewifi/wireless-profile-samples
+- https://learn.microsoft.com/en-us/windows/win32/nativewifi/wpa3-personal-transition-profile-sample
+- https://www.rapidtables.com/convert/number/ascii-to-hex.html
+- https://www.ninjaone.com/blog/how-to-add-a-wi-fi-network-profile-without-connecting/
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-wlan
+- https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+- https://www.maketecheasier.com/best-terminal-emulators-for-windows/
+- https://www.fs.com/blog/understanding-power-over-ethernet-poe-media-converter-5039.html
+- https://stackoverflow.com/questions/72104301/powershell-open-url-in-new-window-system-diagnostics-processstart
+
+- https://superuser.com/questions/362152/native-alternative-to-wget-in-windows-powershell
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.5
+- https://www.windowsdigitals.com/powershell-open-url-in-chrome-edge-or-firefox/
+- https://vimhelp.org/quickref.txt.html
+- https://vimhelp.org/pattern.txt.html#N
+- https://github.com/kelleyma49/PSFzf
+- https://learn.microsoft.com/en-us/dotnet/api/microsoft.powershell.psconsolereadline?view=powershellsdk-1.1.0
+- https://www.zerotier.com/
+- https://www.youtube.com/watch?v=LTP5c4NqA8k
+- 27/10/2025 12:42:40
+- https://stackoverflow.com/questions/19754849/vim-syntax-highlighting-does-not-work
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-clipboard?view=powershell-7.5
+- https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim
+- https://stackoverflow.com/questions/36108950/setting-up-powershell-as-vims-shell-command-does-not-seem-to-be-passed-correct
+- https://stackoverflow.com/questions/76760846/vim-in-windows-powershell-no-longer-using-colour-and-backspace-no-longer-working
+- https://stackoverflow.com/questions/11666170/persistent-set-syntax-for-a-given-filetype
+- https://stackoverflow.com/questions/31297365/how-to-continuously-read-serial-com-port-in-powershell-and-occasionally-write-to
+- https://www.java.com/en/download/help/enable_browser.html
+- https://www.geeksforgeeks.org/java/web-browsers-that-support-java-applets-and-how-to-enable-them/
+- https://www.thoughtco.com/disabling-or-enabling-the-java-plugin-in-a-browser-2034111
+- https://www.greengeeks.com/tutorials/enable-java-in-firefox-3-methods/
+- https://www.javaspring.net/blog/enable-java-firefox/
+- https://www.java.com/en/download/uninstalltool.jsp
+- https://superuser.com/questions/467398/how-do-i-exit-an-ssh-connection
+- https://stackoverflow.com/questions/20403257/how-to-write-cr-lf-line-ending-into-serialport-with-c-or-python
+- https://thequickadvisor.com/how-to-connect-to-com-serial-port-via-powershell/
+- https://eecs.blog/serial-port-communication-with-powershell/
+- https://shrewdadmin.com/powershell-script-to-set-com-port-for-usb-serial-port/
+- https://stackoverflow.com/questions/50865430/readling-data-from-serial-port-causes-powershell-to-hang
+- https://community.spiceworks.com/t/hp-procurve-cli-cheat-sheet/1009357
+- https://arubanetworking.hpe.com/techdocs/AOS-CX/10.08/HTML/fundamentals_6300-6400/Content/Chp_IniCfg/con-con-por.htm
+- https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/18
+- https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/19#img
+- https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/20#img
+- https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/21#img
+- https://manualsdump.com/en/manuals/hp-1920-8g-1920-8g-poe-plus-65w-1920-48g-1920-8g-poe-plus-180w-1920-24g-1920-24g-poe-plus-180w-1920-16g-1920-24g/291898/22#img
+- https://forums.ni.com/t5/LabVIEW/How-to-write-Enter-key-to-serial-port-COM1/td-p/330958
+- https://batchloaf.wordpress.com/2013/02/12/simple-trick-for-sending-characters-to-a-serial-port-in-windows/
+- https://exchangetuts.com/sending-enter-key-through-serial-port-1640489224783962
+- https://learn.microsoft.com/en-us/dotnet/visual-basic/developing-apps/programming/computer-resources/how-to-send-strings-to-serial-ports
+- https://stackoverflow.com/questions/4805721/sending-enter-key-through-serial-port
+- https://learn.microsoft.com/en-us/answers/questions/517562/switching-com-ports-using-script-or-powershell-or
+- https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=net-9.0-pp
+- https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.write?view=net-9.0-pp#system-io-ports-serialport-write(system-byte()-system-int32-system-int32)
+- https://powershellfaqs.com/create-byte-arrays-in-powershell/
+- https://stackoverflow.com/questions/17474131/creating-byte-in-powershell
+- https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport.-ctor?view=net-9.0-pp
+- https://unix.stackexchange.com/questions/117037/how-to-send-data-to-a-serial-port-and-see-any-answer
+- https://forum.arduino.cc/t/sending-carriage-return-enter-to-the-serial-port/140981/2
+- https://z49x2vmq.github.io/2017/11/12/putty-cr-lf-en/
+- https://scoop.sh/#/apps?q=qemu
+- https://superuser.com/questions/714078/wrong-newline-character-over-serial-port-cr-instead-of-lf
+- https://jay-miah.co.uk/index.php/connecting-to-a-hp-procurve-switch-using-a-console-cable-putty/
+- https://ftp.hp.com/pub/networking/software/6400-5300-4200-3400-MgmtCfg-Oct2006-59906050-Chap04.pdf
+- https://stackoverflow.com/questions/37404049/connect-com-port-using-windows-terminal
+- https://community.spiceworks.com/t/com-port-issue/940195
+- https://gist.github.com/heiswayi/10b412aa96d3f35d85f5f8c2e0075a33
+- https://networkengineering.stackexchange.com/questions/29115/connecting-hp-procurve-2626-switch-to-pc
+- https://forums.ni.com/t5/LabVIEW/LabVIEW-Send-CRLF-as-Termination-Character-in-Serial-Port/td-p/3751808
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/read-host?view=powershell-7.5
+- https://serverfault.com/questions/798571/how-can-i-connect-to-a-cisco-switch-via-serial-console-cable-from-powershell
+- https://superuser.com/questions/1212029/how-can-i-reset-windows-powershell-command-prompt-like-reset-in-bash
+- https://duckduckgo.com/?t=ffab&q=char+13&ia=web
+- https://devblogs.microsoft.com/powershell/writing-and-reading-info-from-serial-ports/
+- https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.5
+- https://superuser.com/questions/1412117/list-all-the-serial-ports-available-and-busy-on-any-of-windows-terminals
+- https://qemu.eu/w64/2021/
+- https://www.qemu.org/download/#windows
+- https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/best-practices-for-running-linux-on-hyper-v
+- https://scoop.sh/#/apps?q=putty
+- https://www.techbloat.com/how-to-install-a-linux-virtual-machine-on-microsoft-hyper-v.html
+- 30/10/2025 09:37:46
+- https://stackoverflow.com/questions/14204230/how-to-list-the-files-in-a-zip-in-powershell
+- https://stackoverflow.com/questions/32867123/how-to-run-a-cmd-line-application-in-powershell
+- https://i.sstatic.net/PnUre.png
+- https://www.hpe.com/uk/en/networking.html
+- https://superuser.com/questions/1787945/java-error-with-the-hp-procurve-2510-24-j9019b-network-switch-web-interface
+- https://docs.docker.com/reference/cli/docker/container/attach/
+- https://stackoverflow.com/questions/35573698/why-does-docker-attach-hang
+- https://unix.stackexchange.com/questions/582626/alpine-linux-missing-shutdown-command
+- https://dotnet-helpers.com/powershell/how-to-use-vim-editor-in-powershell/
+- https://scoop.sh/#/apps?q=vim
+- https://www.palemoon.org/download.shtml
+- https://scoop.sh/#/apps?q=palemoon
+- https://shellgeek.com/powershell-telnet-and-alternatives-to-telnet-command/
+- https://voidlinux.org/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-computer?view=powershell-7.5
+- https://rss.com/blog/how-do-rss-feeds-work/
+- https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?hl=en&pli=1
+- https://superuser.com/questions/216617/view-list-of-files-in-zip-archive-on-linux
+- https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options#option_setdcvalueindex
+- https://www.palemoon.org/
+- https://www.youtube.com/watch?v=-IjQQWp5_NI
+- https://www.youtube.com/watch?v=M2X-t7d8g9s
+- https://www.youtube.com/watch?v=wBOW86q1Vlo
+- https://www.youtube.com/watch?v=3YXxsEWMldo
+- https://scoop.sh/#/apps?q=telnet
+- https://stackoverflow.com/questions/42292276/vim-how-to-get-the-file-path-directory-of-opened-buffer-and-do-something
+- https://unix.stackexchange.com/questions/224297/ex-editor-go-to-previous-file
+- https://unix.stackexchange.com/questions/52179/how-to-switch-to-the-directory-listing-from-file-view-in-vim
+- https://stackoverflow.com/questions/60931417/where-can-i-find-vimrc-file-in-windows
 05/11/2025 17:35:06
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.5
-https://vi.stackexchange.com/questions/7975/how-can-i-change-the-indent-size
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-alias?view=powershell-7.5
-https://vimhelp.org/pattern.txt.html#%3F%3CCR%3E
-https://shayallenhill.com/vim-in-windows#vim-fuzzy-finding
-https://stackoverflow.com/questions/1497958/how-do-i-use-vim-registers
-https://stackoverflow.com/questions/75266878/powershell-why-cant-i-add-aliases-in-functions
-https://stackoverflow.com/questions/22142755/what-is-the-meaning-of-a-cr-at-the-end-of-some-vim-mappings
-https://stackoverflow.com/questions/1078920/equivalent-of-more-or-less-command-in-powershell
-https://stackoverflow.com/questions/63772503/installing-vim-colorschemes-under-windows-10
-https://www.baeldung.com/linux/vim-registers
-https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim
-https://superuser.com/questions/26464/how-do-you-change-the-default-colorscheme-in-gvim
-https://stackoverflow.com/questions/55314557/how-to-sudo-on-powershell-on-windows
-https://draculatheme.com/vim
-https://stackoverflow.com/questions/9120500/vim-settings-file-on-windows
-https://stackoverflow.com/questions/28839414/vim-colorscheme-on-ms-windows-display-wrong-colors
-https://www.colorwithleo.com/where-are-vim-color-schemes-stored/
-https://www.geeksforgeeks.org/techtips/how-to-set-and-change-vim-color-schemes/
-https://www.thewindowsclub.com/how-to-run-sudo-command-in-windows
-https://stackoverflow.com/questions/237289/vim-configure-line-number-coloring
-https://superuser.com/questions/686241/how-do-i-tell-what-syntax-file-is-being-used
-https://vi.stackexchange.com/questions/4307/multiple-cursors-at-desired-location
-https://vi.stackexchange.com/questions/17073/cursorlinenr-highlight-not-working
-https://superuser.com/questions/132029/how-do-you-reload-your-vimrc-file-without-restarting-vim
-https://duckduckgo.com/?q=ffdd33&t=ffab&ia=answer
-https://vi.stackexchange.com/questions/13781/how-to-get-the-color-theme-right-with-vi-on-java
-https://www.color-hex.com/color/96a6c8
-https://petri.com/windows-sudo/
-https://cloud.digitalocean.com/registrations/new?activation_redirect=%2Fdroplets%2Fnew&redirect_url=%2Fdroplets%2Fnew
-https://zap-hosting.com/en/shop/product/lifetime-vps/
-https://cloud.google.com/
-https://www.hostinger.com/
-https://login-a-moje.o2.cz/cas-external/logininternal
-https://c-pointers.com/lnp/File_Transfer_Protocols/SCP.html
-https://stackoverflow.com/questions/22146895/do-i-have-to-set-vimruntime-if-i-have-set-vim
-https://help.mikrotik.com/docs/spaces/ROS/pages/93749258/Device-mode
-https://github.com/microsoft/sudo
-https://scoop.sh/#/apps?q=sudo
-https://wiki.alpinelinux.org/wiki/Setting_the_timezone
-https://stackoverflow.com/questions/237289/vim-configure-line-number-coloring
-https://stackoverflow.com/questions/8247243/highlighting-the-current-line-number-in-vim
-https://www.geeksforgeeks.org/linux-unix/mount-command-in-linux-with-examples/
-https://superuser.com/questions/1790933/pass-shell-command-from-wsl-to-windows-host
-https://stackoverflow.com/questions/68996420/how-to-set-timezone-inside-alpine-base-docker-image
-https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts#setup-timezone
-https://learn.microsoft.com/en-us/windows/wsl/basic-commands
-https://superuser.com/questions/622171/vim-turn-off-syntax-highlight-for-some-elements
-https://wiki.alpinelinux.org/wiki/Configure_Networking
-https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-computer?view=powershell-7.5
-https://stackoverflow.com/questions/14191414/how-to-use-scp-uri-with-different-port
-https://unix.stackexchange.com/questions/202918/how-do-i-remotely-edit-files-via-ssh
-https://stackoverflow.com/questions/72864376/get-the-date-three-days-from-today-with-busybox-date
-https://krython.com/post/setting-up-time-and-date-in-alpine-linux
-https://github.com/gliderlabs/docker-alpine/issues/310
-https://stackoverflow.com/questions/28178239/how-do-i-swap-two-lines-in-vim
-https://github.com/vim/vim-win32-installer/releases
-https://vi.stackexchange.com/questions/44187/change-the-color-of-cursorline-underline
-https://stackoverflow.com/questions/8640276/how-do-i-change-my-vim-highlight-line-to-not-be-an-underline
-https://superuser.com/questions/627636/better-syntax-highlighting-for-java-in-vim
-https://www.reddit.com/r/vim/comments/3bu715/syntax_highlighting_for_java/
-https://www.fosslinux.com/134422/customizing-vim-advanced-syntax-highlighting-techniques.htm
-https://superuser.com/questions/1026685/setting-up-vim-under-win-10
-https://www.geeksforgeeks.org/linux-unix/vi-vim-for-windows-users/
-https://www.thewindowsclub.com/install-vim-text-editor-on-windows
-https://www.reddit.com/r/vim/comments/pai8um/i_need_help_for_setting_vim_theme_for_windows/
-https://draculatheme.com/vim
-https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-schemes-used-by-vim
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-7.5
+- https://vi.stackexchange.com/questions/7975/how-can-i-change-the-indent-size
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-alias?view=powershell-7.5
+- https://vimhelp.org/pattern.txt.html#%3F%3CCR%3E
+- https://shayallenhill.com/vim-in-windows#vim-fuzzy-finding
+- https://stackoverflow.com/questions/1497958/how-do-i-use-vim-registers
+- https://stackoverflow.com/questions/75266878/powershell-why-cant-i-add-aliases-in-functions
+- https://stackoverflow.com/questions/22142755/what-is-the-meaning-of-a-cr-at-the-end-of-some-vim-mappings
+- https://stackoverflow.com/questions/1078920/equivalent-of-more-or-less-command-in-powershell
+- https://stackoverflow.com/questions/63772503/installing-vim-colorschemes-under-windows-10
+- https://www.baeldung.com/linux/vim-registers
+- https://stackoverflow.com/questions/13239464/create-a-new-file-in-the-directory-of-the-open-file-in-vim
+- https://superuser.com/questions/26464/how-do-you-change-the-default-colorscheme-in-gvim
+- https://stackoverflow.com/questions/55314557/how-to-sudo-on-powershell-on-windows
+- https://draculatheme.com/vim
+- https://stackoverflow.com/questions/9120500/vim-settings-file-on-windows
+- https://stackoverflow.com/questions/28839414/vim-colorscheme-on-ms-windows-display-wrong-colors
+- https://www.colorwithleo.com/where-are-vim-color-schemes-stored/
+- https://www.geeksforgeeks.org/techtips/how-to-set-and-change-vim-color-schemes/
+- https://www.thewindowsclub.com/how-to-run-sudo-command-in-windows
+- https://stackoverflow.com/questions/237289/vim-configure-line-number-coloring
+- https://superuser.com/questions/686241/how-do-i-tell-what-syntax-file-is-being-used
+- https://vi.stackexchange.com/questions/4307/multiple-cursors-at-desired-location
+- https://vi.stackexchange.com/questions/17073/cursorlinenr-highlight-not-working
+- https://superuser.com/questions/132029/how-do-you-reload-your-vimrc-file-without-restarting-vim
+- https://duckduckgo.com/?q=ffdd33&t=ffab&ia=answer
+- https://vi.stackexchange.com/questions/13781/how-to-get-the-color-theme-right-with-vi-on-java
+- https://www.color-hex.com/color/96a6c8
+- https://petri.com/windows-sudo/
+- https://cloud.digitalocean.com/registrations/new?activation_redirect=%2Fdroplets%2Fnew&redirect_url=%2Fdroplets%2Fnew
+- https://zap-hosting.com/en/shop/product/lifetime-vps/
+- https://cloud.google.com/
+- https://www.hostinger.com/
+- https://login-a-moje.o2.cz/cas-external/logininternal
+- https://c-pointers.com/lnp/File_Transfer_Protocols/SCP.html
+- https://stackoverflow.com/questions/22146895/do-i-have-to-set-vimruntime-if-i-have-set-vim
+- https://help.mikrotik.com/docs/spaces/ROS/pages/93749258/Device-mode
+- https://github.com/microsoft/sudo
+- https://scoop.sh/#/apps?q=sudo
+- https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+- https://stackoverflow.com/questions/237289/vim-configure-line-number-coloring
+- https://stackoverflow.com/questions/8247243/highlighting-the-current-line-number-in-vim
+- https://www.geeksforgeeks.org/linux-unix/mount-command-in-linux-with-examples/
+- https://superuser.com/questions/1790933/pass-shell-command-from-wsl-to-windows-host
+- https://stackoverflow.com/questions/68996420/how-to-set-timezone-inside-alpine-base-docker-image
+- https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts#setup-timezone
+- https://learn.microsoft.com/en-us/windows/wsl/basic-commands
+- https://superuser.com/questions/622171/vim-turn-off-syntax-highlight-for-some-elements
+- https://wiki.alpinelinux.org/wiki/Configure_Networking
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-computer?view=powershell-7.5
+- https://stackoverflow.com/questions/14191414/how-to-use-scp-uri-with-different-port
+- https://unix.stackexchange.com/questions/202918/how-do-i-remotely-edit-files-via-ssh
+- https://stackoverflow.com/questions/72864376/get-the-date-three-days-from-today-with-busybox-date
+- https://krython.com/post/setting-up-time-and-date-in-alpine-linux
+- https://github.com/gliderlabs/docker-alpine/issues/310
+- https://stackoverflow.com/questions/28178239/how-do-i-swap-two-lines-in-vim
+- https://github.com/vim/vim-win32-installer/releases
+- https://vi.stackexchange.com/questions/44187/change-the-color-of-cursorline-underline
+- https://stackoverflow.com/questions/8640276/how-do-i-change-my-vim-highlight-line-to-not-be-an-underline
+- https://superuser.com/questions/627636/better-syntax-highlighting-for-java-in-vim
+- https://www.reddit.com/r/vim/comments/3bu715/syntax_highlighting_for_java/
+- https://www.fosslinux.com/134422/customizing-vim-advanced-syntax-highlighting-techniques.htm
+- https://superuser.com/questions/1026685/setting-up-vim-under-win-10
+- https://www.geeksforgeeks.org/linux-unix/vi-vim-for-windows-users/
+- https://www.thewindowsclub.com/install-vim-text-editor-on-windows
+- https://www.reddit.com/r/vim/comments/pai8um/i_need_help_for_setting_vim_theme_for_windows/
+- https://draculatheme.com/vim
+- https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-schemes-used-by-vim
 - https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_powershell_exe?view=powershell-5.1
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
 - https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content?view=powershell-7.5
@@ -863,3 +868,111 @@ https://apple.stackexchange.com/questions/243078/where-is-the-folder-with-color-
 - https://bbs.archlinux.org/viewtopic.php?id=299073
 - https://www.reddit.com/r/voidlinux/comments/nt3yk5/getting_started_with_xorgminimal_and_i3_on_vm/
 - https://github.com/void-linux/void-docs/blob/master/src/config/graphical-session/xorg.md
+
+#### Void Linux time Qemu
+
+`date`
+
+`sudo hwclock -s`
+
+Windows needs *localtime*
+
+- https://www.reddit.com/r/voidlinux/comments/yyuqmb/my_clock_is_one_hour_ahead/
+- https://docs.voidlinux.org/config/date-time.html
+- https://www.reddit.com/r/voidlinux/comments/z5wya2/why_is_the_clock_one_hour_ahead_then_the_actual/
+- https://bbs.archlinux.org/viewtopic.php?id=293351
+- https://askubuntu.com/questions/1218525/time-is-behind-by-an-hour-even-though-tz-is-correctly-set
+- https://stackoverflow.com/questions/61545975/understanding-qemu-clocks
+- https://www.emaculation.com/forum/viewtopic.php?t=12199
+
+#### Virtualization and DRM streaming
+
+- https://libvirt.org/
+
+#### CMD multiline
+
+`^`
+
+```cmd
+command ^
+command
+```
+
+- https://stackoverflow.com/questions/605686/how-to-write-a-multiline-command
+
+#### Qemu performance
+
+`-machine q35`
+
+`-cpu host` passes entire cpu to guest
+
+`-cpu host` cannot be used with whpx
+
+- https://forums.linuxmint.com/viewtopic.php?t=434887
+- https://medium.com/@AOrps/qemu-tuning-a83da49201b7
+- https://github.com/SerenityOS/serenity/issues/11484
+- https://gitlab.com/qemu-project/qemu/-/issues/858
+- https://www.youtube.com/watch?v=xhKRTxR2_zQ
+- https://www.youtube.com/watch?app=desktop&v=ZqBJzrQ
+- https://stackoverflow.com/questions/74317510/qemu-cpu-model-host-requires-kvm-or-hvf-but-kvm-ok-is-fine
+- https://blog.benyamin.xyz/2023/03/11/stop-windows-vm-cpu-usage-while-paused-on-qemu-linux/
+- https://forum.proxmox.com/threads/vms-freeze-with-100-cpu.127459/
+- https://bbs.archlinux.org/viewtopic.php?id=292706
+- https://github.com/virt-manager/virt-manager/issues/205a
+- https://superuser.com/questions/1471510/why-vm-qemu-is-very-slow-still-a-newbie-here
+- https://forum.proxmox.com/threads/snapshot-causes-vm-to-become-unresponsive.153483/page-3
+
+#### PXE tftp Docker
+
+- https://github.com/RyuichiHashimoto/TFTP-Server/blob/main/Dockerfile
+- https://linuxconfig.org/network-booting-with-linux-pxe
+
+#### Qemu no ip
+
+`ip a`
+
+`sudo dhcpcd` solution
+
+- https://superuser.com/questions/1317652/how-to-set-up-nat-for-qemu-with-tap-backend-windows-10
+- https://itsfoss.gitlab.io/blog/qemu-vm-has-no-ip/
+- https://gist.github.com/arvati/546617042fcf2669f330b739075c1c5d
+- https://www.qemu.org/docs/master/system/devices/net.html
+
+#### R Vectors
+
+The `c` function
+
+`vector <- c(a, b, c, d)`
+
+- https://www.w3schools.com/r/r_vectors.asp
+
+#### R Linear Regression
+
+- https://r-statistics.co/Linear-Regression.html
+
+#### Qemu Monitor
+
+CLI interface for manipulating a running Qemu VM
+
+`CTRL + ALT + 2`
+
+- https://qemu-project.gitlab.io/qemu/system/monitor.html
+- https://www.qemu.org/docs/master/system/monitor.html
+- https://thetechylife.com/how-do-you-use-qemu-monitor/
+- https://en.wikibooks.org/wiki/QEMU/Monitor
+- https://eaasi.gitlab.io/program_docs/qemu-qed/usage/qemu_monitor/
+
+#### Broken locale cowsay
+
+`export LC_ALL="en_GB.UTF-8"` solution
+
+- https://askubuntu.com/questions/599808/cannot-set-lc-ctype-to-default-locale-no-such-file-or-directory
+- https://docs.voidlinux.org/config/locales.html
+- https://docs.voidlinux.org/xbps/index.html
+
+#### Linux clipboard X11 xorg
+
+xclipboard
+
+- https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard
+- https://unix.stackexchange.com/questions/125839/print-the-system-clipboard-content-in-bash
