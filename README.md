@@ -207,7 +207,16 @@ My personal .files
 - https://www.ninjaone.com/blog/how-to-add-a-wi-fi-network-profile-without-connecting/
 - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh
 - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-wlan
+
+#### Alpine Linux Timezone Script
+
+`setup-timezone`
+
 - https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+- https://krython.com/post/setting-up-time-and-date-in-alpine-linux
+
+####
+
 - https://www.maketecheasier.com/best-terminal-emulators-for-windows/
 - https://www.fs.com/blog/understanding-power-over-ethernet-poe-media-converter-5039.html
 - https://stackoverflow.com/questions/72104301/powershell-open-url-in-new-window-system-diagnostics-processstart
@@ -356,7 +365,13 @@ My personal .files
 - https://wiki.alpinelinux.org/wiki/Setting_the_timezone
 - https://stackoverflow.com/questions/237289/vim-configure-line-number-coloring
 - https://stackoverflow.com/questions/8247243/highlighting-the-current-line-number-in-vim
+
+#### GNU/Linux Mount
+
+`sudo/doas mount /dev/disk /mnt/mountpoint`
+
 - https://www.geeksforgeeks.org/linux-unix/mount-command-in-linux-with-examples/
+
 - https://superuser.com/questions/1790933/pass-shell-command-from-wsl-to-windows-host
 - https://stackoverflow.com/questions/68996420/how-to-set-timezone-inside-alpine-base-docker-image
 - https://wiki.alpinelinux.org/wiki/Alpine_setup_scripts#setup-timezone
@@ -367,7 +382,6 @@ My personal .files
 - https://stackoverflow.com/questions/14191414/how-to-use-scp-uri-with-different-port
 - https://unix.stackexchange.com/questions/202918/how-do-i-remotely-edit-files-via-ssh
 - https://stackoverflow.com/questions/72864376/get-the-date-three-days-from-today-with-busybox-date
-- https://krython.com/post/setting-up-time-and-date-in-alpine-linux
 - https://github.com/gliderlabs/docker-alpine/issues/310
 - https://stackoverflow.com/questions/28178239/how-do-i-swap-two-lines-in-vim
 - https://github.com/vim/vim-win32-installer/releases
@@ -395,10 +409,11 @@ My personal .files
 - https://www.baeldung.com/linux/qemu-from-terminal
 
 #### Vim
-	- https://vi.stackexchange.com/questions/9444/how-can-i-run-a-batch-file-in-vims-console
-	- https://vi.stackexchange.com/questions/38444/scroll-to-top-of-previous-terminal-command
-	- https://stackoverflow.com/questions/71950509/is-there-a-way-to-prevent-vims-netrw-from-modifying-timestamp-of-directories-i
-	- https://til.acm.illinois.edu/vim/default-netrw-to-tree-liststyle/
+	
+- https://vi.stackexchange.com/questions/9444/how-can-i-run-a-batch-file-in-vims-console
+- https://vi.stackexchange.com/questions/38444/scroll-to-top-of-previous-terminal-command
+- https://stackoverflow.com/questions/71950509/is-there-a-way-to-prevent-vims-netrw-from-modifying-timestamp-of-directories-i
+- https://til.acm.illinois.edu/vim/default-netrw-to-tree-liststyle/
 	- https://vim.kishorenewton.com/docs/netrw/netrw-settings-and-customization/
 	- https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
 	- https://thevaluable.dev/vim-runtime-guide-example/
@@ -976,3 +991,209 @@ xclipboard
 
 - https://stackoverflow.com/questions/5130968/how-can-i-copy-the-output-of-a-command-directly-into-my-clipboard
 - https://unix.stackexchange.com/questions/125839/print-the-system-clipboard-content-in-bash
+
+#### Docker shutdown
+
+`Probably not possible`
+
+- https://unix.stackexchange.com/questions/487238/how-to-poweroff-when-theres-no-systemd-init-e-g-using-init-bin-bash
+- https://opensource.com/article/19/7/reboot-linux
+- https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/
+- https://superuser.com/questions/1462581/unable-to-shutdown-reboot-my-debian-10-server
+
+#### NGINX SSL
+
+`Port 443`
+
+- https://nginx.org/en/docs/http/configuring_https_servers.html
+- https://travishorn.com/configuring-httpstls-on-nginx-a-complete-guide-for-securing-web-traffic
+
+#### Xterm.js
+
+- https://sabujkundu.com/best-open-source-web-terminals-for-embedding-in-your-browser/
+- https://www.ascii-code.com/
+- https://xtermjs.org/docs/guides/hooks/
+- https://stackoverflow.com/questions/70509336/trying-to-use-xterm-to-send-command-or-control-key-combinations
+- https://github.com/xtermjs/xterm.js/discussions/4730
+- https://xtermjs.org/docs/api/vtfeatures/
+- https://www.jsdelivr.com/package/npm/xterm-addon-fit
+- https://www.jsdelivr.com/package/npm/xterm
+- https://hayageek.com/xtermjs-tutorial/
+
+#### Xterm.js Demo
+
+- https://deepwiki.com/xtermjs/xterm.js/6-demo-and-example-usage
+
+#### Xterm.js Addons and Fit
+
+- https://www.jsdelivr.com/package/npm/@xterm/addon-fit
+- https://cdn.jsdelivr.net/npm/@xterm/addon-fit@0.11/+esm
+- https://github.com/xtermjs/xterm.js/blob/master/addons/addon-fit/README.md
+- https://github.com/xtermjs/xterm.js/blob/master/addons/addon-fit/typings/addon-fit.d.ts
+- https://xtermjs.org/docs/guides/using-addons/
+- https://cdn.jsdelivr.net/npm/@xterm/addon-fit@0.10.0/src/FitAddon.ts
+- https://www.npmjs.com/package/@xterm/addon-fit?activeTab=readme
+- https://github.com/xtermjs/xterm.js/tree/master/addons/addon-fit
+
+#### Full screen `<div>`
+
+- https://stackoverflow.com/questions/1719452/how-to-make-a-div-always-full-screen
+- https://www.w3schools.com/howto/howto_css_div_full_height.asp
+
+#### Node Events
+
+- https://stackoverflow.com/questions/11498508/socket-emit-vs-socket-send
+
+#### Node Buffer
+
+- https://nodejs.org/api/buffer.html#buftojson
+
+#### Xterm resize
+
+- https://stackoverflow.com/questions/72523294/xtermjs-how-to-resize-xterm-terminal-to-match-the-exact-dimensions-of-the-wind
+- https://github.com/princjef/xterm-electron-sample/blob/2ec9bbd3dd492fec4f5f5677deb04edb069ca17a/src/renderer/index.ts#L36
+- https://stackoverflow.com/questions/67160005/how-to-resize-xtermjs-terminal
+- https://xtermjs.org/docs/api/terminal/interfaces/iwindowoptions/#optional-setwinsizepixels
+- https://github.com/xtermjs/xterm.js/issues/3130
+- https://stackoverflow.com/questions/55322629/how-to-get-xterm-js-resize-properly
+
+#### ASCII End Of Transmition
+
+- https://stackoverflow.com/questions/1182812/what-is-the-meaning-of-x00-x04-in-php
+
+#### Xterm import issue
+
+`Was necessary to use class name twice`
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Not_a_constructor?utm_source=mozilla&utm_medium=firefox-console-errors&utm_campaign=default
+- https://stackoverflow.com/questions/60230527/how-to-resolve-attachaddon-is-not-a-constructor-error-on-chrome
+- https://github.com/xtermjs/xterm.js/issues/4622
+
+#### Clipboard doesnt work issue
+
+`Must be HTTPS`
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Navigator/clipboard
+- https://bobbyhadz.com/blog/navigator-clipboard-is-undefined-in-javascript
+
+#### TMUX
+
+- https://tmuxai.dev/tmux-getting-started
+
+#### Web Socket and Xterm timeout problem
+
+- https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_read_timeout
+- https://stackoverflow.com/questions/50530504/web-socket-stops-responding-after-awhile#50533068
+- https://stackoverflow.com/questions/79569761/xterm-js-backspace-not-working-after-simulated-autocomplete-with-tab
+
+#### BASH --login
+
+`Opens a login "shell"`
+
+- https://bashcommands.com/bash-login
+- https://askubuntu.com/questions/447615/how-to-automatically-launch-bash-shell-when-opening-terminal-or-in-console-mode
+
+#### NGINX Web Socket
+
+- https://websocket.org/guides/infrastructure/nginx/
+- https://nginx.org/en/docs/http/websocket.html
+
+#### Podman
+
+- https://docs.podman.io/en/latest/markdown/podman-build.1.html
+
+#### Docker add port mapping to existing container
+
+- https://stackoverflow.com/questions/19335444/how-do-i-assign-a-port-mapping-to-an-existing-docker-container
+
+#### Void Linux Docker Container
+
+- https://github.com/void-linux/void-containers/tree/master
+- https://voidlinux.org/download/#containers
+- https://hub.docker.com/r/voidlinux/voidlinux
+- https://www.reddit.com/r/voidlinux/comments/1ae3yag/void_linux_docker_container/
+- https://github.com/orgs/void-linux/packages?repo_name=void-containers
+- https://github.com/void-linux/void-containers/pkgs/container/void-glibc-full
+- https://github.com/void-linux/void-containers/pkgs/container/void-glibc-full/594336644?tag=latest
+- https://github.com/void-linux
+
+#### Docker Volume
+
+- https://docs.docker.com/engine/storage/volumes/
+
+#### Docker Network Drivers
+
+`Host`
+`Bridge`
+
+- https://docs.docker.com/engine/network/drivers/host/
+
+#### Docker Running Containers
+
+`! Rebuilds/builds the container`
+`docker container run`
+
+- https://docs.docker.com/engine/containers/run/
+
+#### TFTP Docker PXE
+
+- https://github.com/RyuichiHashimoto/TFTP-Server/blob/main/Dockerfile
+- https://linuxconfig.org/network-booting-with-linux-pxe
+
+#### SSH over Web
+
+`Not a good idea`
+
+- https://pseudoshell.com/
+- https://itsfoss.gitlab.io/post/webssh--connect-linux-terminal-from-your-web-browser/
+- https://github.com/huib-io/webssh
+- https://github.com/Termix-SSH/Termix
+- https://ssheasy.com/
+
+#### Xterm.js alternatives
+
+`"All based on Xterm.js, practically"`
+
+- https://github.com/butlerx/wetty
+- https://github.com/yudai/gotty
+- https://github.com/tsl0922/ttyd
+
+#### NGINX Node.js configuration Docker
+
+- https://stackoverflow.com/questions/40728554/resource-blocked-due-to-mime-type-mismatch-x-content-type-options-nosniff
+- https://stackoverflow.com/questions/5009324/node-js-nginx-what-now
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Content-Type-Options?utm_source=mozilla&utm_medium=firefox-console-errors&utm_campaign=default
+- https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-docker/
+- https://www.baeldung.com/linux/nginx-docker-container
+
+#### Suckless
+
+`Software making principle`
+
+- https://suckless.org/rocks/
+
+#### DRM and Virtualization
+
+- https://www.reddit.com/r/OculusQuest/comments/kbwpnp/anyone_know_why_disneyplus_is_not_working_on/
+
+#### Qemu
+
+- https://www.emaculation.com/forum/viewtopic.php?t=9028&start=225
+- https://www.qemu.org/docs/master/devel/reset.html
+- https://eaasi.gitlab.io/program_docs/qemu-qed/recipes/ubuntu1804/
+- https://eaasi.gitlab.io/program_docs/qemu-qed/tags/x86-64/
+- https://eaasi.gitlab.io/program_docs/qemu-qed/recipes/
+
+#### Debian apt package not found
+
+`Wrong repo URL`
+
+- https://unix.stackexchange.com/questions/336392/e-unable-to-locate-package-vim-on-debian-jessie-simplified-docker-container
+
+#### interactive-terminal
+
+- https://github.com/xtermjs/xterm.js/blob/483acd333505b9451381626f371b8e8b0d3b6c78/src/browser/public/Terminal.ts#L25
+- https://www.eddymens.com/blog/creating-a-browser-based-interactive-terminal-using-xtermjs-and-nodejs
+- https://github.com/EDDYMENS/interactive-terminal
+- https://stackoverflow.com/questions/57776633/how-to-build-and-use-xterm-js-locally
+- https://github.com/xtermjs/xterm.js/wiki/Contributing#running-the-demo
