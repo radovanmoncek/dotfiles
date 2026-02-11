@@ -1106,17 +1106,6 @@ xclipboard
 
 - https://stackoverflow.com/questions/19335444/how-do-i-assign-a-port-mapping-to-an-existing-docker-container
 
-#### Void Linux Docker Container
-
-- https://github.com/void-linux/void-containers/tree/master
-- https://voidlinux.org/download/#containers
-- https://hub.docker.com/r/voidlinux/voidlinux
-- https://www.reddit.com/r/voidlinux/comments/1ae3yag/void_linux_docker_container/
-- https://github.com/orgs/void-linux/packages?repo_name=void-containers
-- https://github.com/void-linux/void-containers/pkgs/container/void-glibc-full
-- https://github.com/void-linux/void-containers/pkgs/container/void-glibc-full/594336644?tag=latest
-- https://github.com/void-linux
-
 #### Docker Volume
 
 - https://docs.docker.com/engine/storage/volumes/
@@ -1197,3 +1186,41 @@ xclipboard
 - https://github.com/EDDYMENS/interactive-terminal
 - https://stackoverflow.com/questions/57776633/how-to-build-and-use-xterm-js-locally
 - https://github.com/xtermjs/xterm.js/wiki/Contributing#running-the-demo
+- https://virtual-keyboard.js.org
+
+#### Video streaming NGINX
+
+`Special protocols are needed`
+
+- https://dev.to/mohammad_owaisk_e95f45c/how-to-make-a-video-streaming-server-step-by-step-guide-3akn
+- https://github.com/arut/nginx-rtmp-module
+- https://docs.nginx.com/nginx/admin-guide/dynamic-modules/rtmp/
+
+#### Persistent Tmux
+
+`Plugins are required.`
+
+- https://itsfoss.gitlab.io/post/how-to-save-and-restore-tmux-environments-across-reboots-in-linux/
+
+#### iso-25010
+
+- https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
+#### GitHub Index Update
+
+- https://git-scm.com/docs/git-update-index
+- https://superuser.com/questions/1437962/what-makes-git-refreshing-its-index-while-no-any-file-modified
+
+#### VIM yanking limit
+
+- https://superuser.com/questions/775421/vim-only-storing-first-50-lines-when-yanking-between-files
+
+####
+
+- https://www.poweradmin.com/blog/how-to-choose-a-linux-distro-for-your-server/
+- https://codeberg.org/oSoWoSo/vb-docker
+- https://hub.docker.com/r/voidlinux/voidlinux
+- https://docs.docker.com/reference/cli/docker/container/run/#network
+- https://docs.docker.com/reference/dockerfile/#copy
+- https://www.docker.com/blog/how-to-use-the-alpine-docker-official-image/
+- https://hub.docker.com/_/alpine
