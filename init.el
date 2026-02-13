@@ -40,6 +40,7 @@
 (global-set-key (kbd "C-,") 'duplicate-line)
 (setq display-line-numbers-type 'relative)
 (setq tramp-use-ssh-controlmaster-options nil)
+(setq auto-save-interval 20)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -49,12 +50,7 @@
  '(custom-safe-themes
    '("e13beeb34b932f309fb2c360a04a460821ca99fe58f69e65557d6c1b10ba18c7"
      default))
- '(package-selected-packages
-   '(counsel-projectile doom-themes emojify forge general
-			gruber-darker-theme helpful ivy-rich
-			modus-themes org-bullets powershell
-			rainbow-delimiters smex visual-fill-column
-			which-key)))
+ '(package-selected-packages nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
