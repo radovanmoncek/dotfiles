@@ -1224,3 +1224,9 @@ xclipboard
 - https://docs.docker.com/reference/dockerfile/#copy
 - https://www.docker.com/blog/how-to-use-the-alpine-docker-official-image/
 - https://hub.docker.com/_/alpine
+
+#### Vim Windows colour scheme
+
+`vimfiles -> colors -> symlink to colour scheme`
+
+
