@@ -1,5 +1,8 @@
 "Windows Terminal theme inspired by Gruber Darker - tsoding
 "https://github.com/drsooch/gruber-darker-vim/blob/master/colors/GruberDarker.vim
+"https://github.com/vim/vim/issues/15660
+"https://stackoverflow.com/questions/56265246/vim-no-write-since-last-change-even-though-i-changed-the-file
+
 colorscheme GruberDarker
 "hi clear CursorLine
 "augroup CLClear
