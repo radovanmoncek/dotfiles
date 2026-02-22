@@ -1,3 +1,17 @@
+# https://scoop.sh/
+# https://winlibs.com/
+# https://www.reddit.com/r/AskProgrammers/comments/v6iedo/can_we_install_mingw_with_winget/
+# https://www.cnblogs.com/liupiaos/p/18465736 weird site
+# https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j
+# https://phoenixnap.com/kb/install-gcc-windows
+# https://winget.run/pkg/GnuWin32/Make
+# https://ss64.com/nt/winget.html
+# https://learn.microsoft.com/en-us/windows/package-manager/configuration/
+# https://winget.run/pkg/vim/vim
+# https://winget.run/pkg/Git/Git
+# https://learn.microsoft.com/en-us/windows/package-manager/winget/
+# https://learn.microsoft.com/en-us/windows/package-manager/winget/source
+
 $env:FZF_DEFAULT_OPTS = '--multi --height=69% --margin=5%,2%,2%,5% --layout=reverse-list --border=double --info=inline --prompt="@" --pointer="@" --marker="x" --header="cool" --color="dark,fg+:cyan,pointer:cyan,fg:yellow"'
 $scoop = "$($HOME)\scoop"
 
